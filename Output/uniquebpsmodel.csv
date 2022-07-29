@@ -1,0 +1,1243 @@
+VALUE,BPS_CODE,BPS_MODEL,BPS_NAME,GROUPVEG,FRI_REPLAC,FRI_MIXED,FRI_SURFAC,FRI_ALLFIR,PRC_REPLAC,PRC_MIXED,PRC_SURFAC,FRG_NEW
+-9999,-9999,na,NoData,NoData,NA,NA,NA,NA,NA,NA,NA,NA
+381,11250,11250_6_12_13_15_16_17_18_23_24_25_28,Inter-Mountain Basins Big Sagebrush Steppe,Shrubland,117,NA,NA,117,100,NA,NA,IV-B
+383,10010,10010,Inter-Mountain Basins Sparsely Vegetated Systems,Sparse,NA,NA,NA,NA,NA,NA,NA,NA
+384,10060,10060,Rocky Mountain Alpine/Montane Sparsely Vegetated Systems,Sparse,NA,NA,NA,NA,NA,NA,NA,NA
+385,10040,10040,North American Warm Desert Sparsely Vegetated Systems,Sparse,NA,NA,NA,NA,NA,NA,NA,NA
+386,11490,11490_28,Western Great Plains Shortgrass Prairie,Grassland,13,61,NA,10,83,17,NA,II-B
+387,11470,11470_28,Western Great Plains Foothill and Piedmont Grassland,Grassland,12,79,NA,10,87,13,NA,II-B
+388,10720,10720_28,Wyoming Basins Dwarf Sagebrush Shrubland and Steppe,Shrubland,125,NA,NA,125,100,NA,NA,IV-B
+389,10930,10930_13_15_16_23_24_28,Southern Colorado Plateau Sand Shrubland,Shrubland,220,NA,NA,220,100,NA,NA,V-A
+391,10860,10860_25,Rocky Mountain Lower Montane-Foothill Shrubland,Shrubland,72,203,NA,53,74,26,NA,III-A
+392,10950,10950_25,Apacherian-Chihuahuan Mesquite Upland Scrub,Shrubland,10,NA,49,8,83,NA,17,II-B
+393,10760,10760_25,Chihuahuan Stabilized Coppice Dune and Sand Flat Scrub,Shrubland,22,NA,NA,22,100,NA,NA,II-C
+394,10780,10780_16_23_24_25,Colorado Plateau Blackbrush-Mormon-tea Shrubland,Shrubland,146,162,NA,77,53,47,NA,III-A
+395,10820,10820_12_15_16_17_23_24,Mojave Mid-Elevation Mixed Desert Scrub,Shrubland,815,NA,NA,815,100,NA,NA,V-B
+396,11460,11460_15_16_23_24_25_28,Southern Rocky Mountain Montane-Subalpine Grassland,Grassland,20,NA,21,10,52,NA,48,I-B
+397,11080,11080_4_5_13_14_15_24_25,Sonora-Mojave Semi-Desert Chaparral,Shrubland,81,NA,NA,81,100,NA,NA,IV-A
+398,10870,10870_4_6_12_13_14_15_17_24_25,Sonora-Mojave Creosotebush-White Bursage Desert Scrub,Shrubland,329,NA,NA,329,100,NA,NA,V-A
+399,11261,11261_16_23_24,Inter-Mountain Basins Montane Sagebrush Steppe-Mountain Big Sagebrush,Shrubland,49,NA,NA,49,100,NA,NA,IV-A
+401,10660,10660_16_23_24,Inter-Mountain Basins Mat Saltbush Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+402,10950,10950_15,Apacherian-Chihuahuan Mesquite Upland Scrub,Shrubland,10,NA,138,9,93,NA,7,II-B
+403,10640,10640_15_16_17_23_24_27_28,Colorado Plateau Mixed Low Sagebrush Shrubland,Shrubland,239,119,NA,79,33,67,NA,III-A
+404,10780,10780_15,Colorado Plateau Blackbrush-Mormon-tea Shrubland,Shrubland,282,NA,NA,282,100,NA,NA,V-A
+407,10950,10950_14,Apacherian-Chihuahuan Mesquite Upland Scrub,Shrubland,10,NA,40,8,80,NA,20,II-B
+408,10020,10020,Mediterranean California Sparsely Vegetated Systems,Sparse,NA,NA,NA,NA,NA,NA,NA,NA
+416,10110,10110_6_10_12_17_18_19,Rocky Mountain Aspen Forest and Woodland,Hardwood,68,57,NA,31,46,54,NA,I-C
+417,10451,10451_10_19,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Ponderosa Pine-Douglas-fir,Conifer,148,51,39,19,13,38,49,I-C
+418,10452,10452_10_19,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Larch,Conifer,202,69,137,37,19,54,27,III-A
+419,10453,10453_10_19,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Grand Fir,Conifer,223,106,NA,72,32,68,NA,III-A
+420,10460,10460_10_19_20,Northern Rocky Mountain Subalpine Woodland and Parkland,Conifer,401,340,NA,184,46,54,NA,III-B
+421,10470,10470_10_19,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,Conifer,186,139,NA,80,43,57,NA,III-A
+422,10472,10472_10_19,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest-Cedar Groves,Conifer,374,1990,NA,315,84,16,NA,V-A
+423,10530,10530_10_19,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,Conifer,354,56,17,13,4,23,73,I-B
+424,10550,10550_10_19,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Conifer,205,412,NA,137,67,33,NA,IV-B
+425,10560,10560_10_19,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Conifer,181,NA,NA,181,100,NA,NA,IV-B
+426,10620,10620_10_19_21_29_31,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Shrubland,286,151,232,69,24,46,30,III-A
+427,10650,10650_1_8_9_10,Columbia Plateau Scabland Shrubland,Shrubland,253,NA,NA,253,100,NA,NA,V-A
+428,10700,10700_10_19_28,Rocky Mountain Alpine Dwarf-Shrubland,Shrubland,228,NA,NA,228,100,NA,NA,V-A
+429,10790,10790_6_9_10_12_16_17_18,Great Basin Xeric Mixed Sagebrush Shrubland,Shrubland,94,831,NA,84,90,10,NA,IV-A
+430,10800,10800_10_19,Inter-Mountain Basins Big Sagebrush Shrubland,Shrubland,80,NA,NA,80,100,NA,NA,IV-A
+431,11060,11060_10_19,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,Shrubland,100,446,NA,82,82,18,NA,IV-A
+432,11150,11150_10_19,Inter-Mountain Basins Juniper Savanna,Conifer,824,438,560,189,23,43,34,III-B
+433,11230,11230_10_18,Columbia Plateau Steppe and Grassland,Grassland,50,NA,NA,50,100,NA,NA,IV-A
+434,11240,11240_10_12_17_18_19_21,Columbia Plateau Low Sagebrush Steppe,Shrubland,201,NA,NA,201,100,NA,NA,V-A
+435,11250,11250_1_7_8_9_10_19,Inter-Mountain Basins Big Sagebrush Steppe,Shrubland,59,NA,NA,59,100,NA,NA,IV-A
+436,11260,11260_1_7_8_9_10_19,Inter-Mountain Basins Montane Sagebrush Steppe,Shrubland,31,NA,NA,31,100,NA,NA,II-C
+437,11270,11270_10_12_13_17_18,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Shrubland,225,NA,NA,225,100,NA,NA,V-A
+438,11340,11340_10,Columbia Basin Foothill and Canyon Dry Grassland,Grassland,14,NA,NA,14,100,NA,NA,II-B
+439,11350,11350_7_8_9_10_12_17_18,Inter-Mountain Basins Semi-Desert Grassland,Grassland,81,NA,NA,81,100,NA,NA,IV-A
+440,11390,11390_10_19,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,Grassland,17,NA,NA,17,100,NA,NA,II-C
+441,11400,11400_10_19,Northern Rocky Mountain Subalpine-Upper Montane Grassland,Grassland,146,NA,NA,146,100,NA,NA,IV-B
+442,11420,11420_9_10,Columbia Basin Palouse Prairie,Grassland,25,NA,NA,25,100,NA,NA,II-C
+443,11450,11450_9_10_19,Rocky Mountain Subalpine-Montane Mesic Meadow,Grassland,40,160,NA,32,80,20,NA,II-C
+444,11530,11530_6_10_12_13_17_18_19_21,Inter-Mountain Basins Greasewood Flat,Shrubland,1024,NA,NA,1024,100,NA,NA,V-B
+445,11540,11540_10_19,Inter-Mountain Basins Montane Riparian Systems,Riparian,173,NA,NA,173,100,NA,NA,IV-B
+446,11590,11590_10_19,Rocky Mountain Montane Riparian Systems,Riparian,100,101,NA,50,50,50,NA,III-A
+447,11600,11600_10_19,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Riparian,201,133,NA,80,40,60,NA,III-A
+448,11610,11610_9_10_19,Northern Rocky Mountain Conifer Swamp,Conifer,386,NA,NA,386,100,NA,NA,V-A
+449,11660,11660_9_10_19,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,Conifer,112,54,106,27,24,50,26,I-C
+450,11670,11670_10_19,Rocky Mountain Poor-Site Lodgepole Pine Forest,Conifer,335,2500,NA,295,88,12,NA,V-A
+453,10090,10090_19,Northwestern Great Plains Aspen Forest and Parkland,Hardwood,83,396,NA,69,83,17,NA,IV-A
+462,10490,10490_19_20_21_23_28_29,Rocky Mountain Foothill Limber Pine-Juniper Woodland,Conifer,385,NA,NA,385,100,NA,NA,V-A
+469,10810,10810_18_19_21,Inter-Mountain Basins Mixed Salt Desert Scrub,Shrubland,1140,NA,NA,1140,100,NA,NA,V-B
+477,11430,11430_9_19_21_28,Rocky Mountain Alpine Fell-Field,Grassland,525,NA,NA,525,100,NA,NA,V-B
+478,11440,11440_12_16_19_28,Rocky Mountain Alpine Turf,Grassland,207,NA,NA,207,100,NA,NA,V-A
+486,11662,11662_19,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland-Fire-maintained Savanna,Conifer,202,151,23,18,9,12,79,I-C
+491,10160,10160_13_14,Colorado Plateau Pinyon-Juniper Woodland,Conifer,483,340,768,158,33,46,21,III-B
+492,10190,10190_13_14,Great Basin Pinyon-Juniper Woodland,Conifer,474,337,780,157,33,47,20,III-B
+493,10200,10200_13,Inter-Mountain Basins Subalpine Limber-Bristlecone Pine Woodland,Conifer,981,NA,540,348,36,NA,64,V-A
+494,10520,10520_13,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Conifer,214,191,64,39,18,21,61,III-A
+495,10540,10540_13_14,Southern Rocky Mountain Ponderosa Pine Woodland,Conifer,254,39,28,15,6,39,55,I-B
+496,10610,10610_13,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Hardwood-Conifer,81,55,NA,33,41,59,NA,I-C
+497,10620,10620_13,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Shrubland,287,149,232,69,24,46,30,III-A
+498,10790,10790_13,Great Basin Xeric Mixed Sagebrush Shrubland,Shrubland,99,727,NA,87,88,12,NA,IV-A
+499,10800,10800_13_14,Inter-Mountain Basins Big Sagebrush Shrubland,Shrubland,111,NA,NA,111,100,NA,NA,IV-B
+500,10810,10810_6_12_13_17,Inter-Mountain Basins Mixed Salt Desert Scrub,Shrubland,1978,NA,NA,1978,100,NA,NA,V-B
+501,10820,10820_4_13,Mojave Mid-Elevation Mixed Desert Scrub,Shrubland,399,NA,NA,399,100,NA,NA,V-A
+502,10860,10860_13_16_17_18_21_23,Rocky Mountain Lower Montane-Foothill Shrubland,Shrubland,102,28,NA,22,21,79,NA,I-C
+505,10910,10910_13_14,Sonoran Mid-Elevation Desert Scrub,Shrubland,104,NA,NA,104,100,NA,NA,IV-B
+508,11030,11030_6_7_12_13_16_17_23,Great Basin Semi-Desert Chaparral,Shrubland,50,NA,NA,50,100,NA,NA,IV-A
+510,11070,11070_13,Rocky Mountain Gambel Oak-Mixed Montane Shrubland,Shrubland,152,52,NA,39,25,75,NA,III-A
+512,11090,11090_4_13,Sonoran Paloverde-Mixed Cacti Desert Scrub,Shrubland,1284,NA,NA,1284,100,NA,NA,V-B
+513,11150,11150_13,Inter-Mountain Basins Juniper Savanna,Conifer,807,427,567,187,23,44,33,III-B
+516,11260,11260_13,Inter-Mountain Basins Montane Sagebrush Steppe,Shrubland,49,NA,NA,49,100,NA,NA,IV-A
+518,11350,11350_13_14,Inter-Mountain Basins Semi-Desert Grassland,Grassland,119,NA,NA,119,100,NA,NA,IV-B
+519,11450,11450_13,Rocky Mountain Subalpine-Montane Mesic Meadow,Grassland,40,159,NA,32,80,20,NA,II-C
+521,11540,11540_13,Inter-Mountain Basins Montane Riparian Systems,Riparian,68,NA,NA,68,100,NA,NA,IV-A
+522,11550,11550_13_14,North American Warm Desert Riparian Systems,Riparian,785,23,NA,23,3,97,NA,I-C
+523,11552,11552_13_14_15,North American Warm Desert Riparian Systems-Stringers,Riparian,735,NA,NA,735,100,NA,NA,V-B
+528,10230,10230_14_15_24_25,Madrean Encinal,Conifer,125,191,33,23,18,13,69,I-C
+530,10250,10250_14_15_24_25_26,Madrean Pinyon-Juniper Woodland,Conifer,136,209,104,46,34,22,44,III-A
+533,10820,10820_14,Mojave Mid-Elevation Mixed Desert Scrub,Shrubland,406,NA,NA,406,100,NA,NA,V-A
+535,10880,10880_12_13_14_25,Sonora-Mojave Mixed Salt Desert Scrub,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+536,10900,10900_14,Sonoran Granite Outcrop Desert Scrub,Shrubland,513,NA,NA,513,100,NA,NA,V-B
+538,11040,11040_13_14_25,Mogollon Chaparral,Shrubland,77,NA,NA,77,100,NA,NA,IV-A
+540,11090,11090_14,Sonoran Paloverde-Mixed Cacti Desert Scrub,Shrubland,1056,NA,NA,1056,100,NA,NA,V-B
+541,11150,11150_14,Inter-Mountain Basins Juniper Savanna,Conifer,836,439,555,189,23,43,34,III-B
+542,11210,11210_14,Apacherian-Chihuahuan Semi-Desert Grassland and Steppe,Grassland,10,NA,40,8,80,NA,20,II-B
+547,10080,10080_1_2_3_7,North Pacific Oak Woodland,Hardwood,293,37,14,10,3,26,71,I-B
+548,10150,10150_2_3_4,California Coastal Redwood Forest,Conifer,408,NA,32,30,7,NA,93,I-C
+549,10210,10210_2_3_6_7,Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland,Conifer,229,70,11,9,5,13,82,I-B
+550,10220,10220_2_3_6_7,Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland,Conifer,231,70,11,9,5,13,82,I-B
+551,10270,10270_2_3_7,Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,Conifer,337,32,12,8,3,26,71,I-B
+552,10280,10280_2_3,Mediterranean California Mesic Mixed Conifer Forest and Woodland,Conifer,237,47,25,15,6,33,61,I-B
+553,10290,10290_2_3_4_5_6_7_12,Mediterranean California Mixed Oak Woodland,Hardwood,285,33,11,8,3,25,72,I-B
+554,10300,10300_2_3_4_5_6_7,Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland,Conifer,176,38,15,10,6,27,67,I-B
+555,10310,10310_2_3_4_5_6_12,California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,Conifer,165,84,11,9,6,11,83,I-B
+556,10320,10320_2_3_7,Mediterranean California Red Fir Forest,Conifer,189,58,58,25,14,43,43,I-C
+557,10330,10330_3_6_7,Mediterranean California Subalpine Woodland,Conifer,475,566,NA,258,54,46,NA,V-A
+558,10390,10390_1_2_3_7,North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest,Conifer,404,NA,NA,404,100,NA,NA,V-A
+560,10440,10440_3_6_7,Northern California Mesic Subalpine Woodland,Conifer,504,929,NA,327,65,35,NA,V-A
+561,10960,10960_3,California Maritime Chaparral,Shrubland,108,NA,NA,108,100,NA,NA,IV-B
+562,10970,10970_3_6_7,California Mesic Chaparral,Shrubland,54,NA,NA,54,100,NA,NA,IV-A
+563,10980,10980_3,California Montane Woodland and Chaparral,Shrubland,94,54,NA,34,37,63,NA,I-C
+564,10990,10990_3,California Xeric Serpentine Chaparral,Shrubland,80,NA,NA,80,100,NA,NA,IV-A
+565,11050,11050_3_6_7,Northern and Central California Dry-Mesic Chaparral,Shrubland,74,NA,NA,74,100,NA,NA,IV-A
+566,11130,11130_3,California Coastal Live Oak Woodland and Savanna,Hardwood,174,31,27,13,8,42,50,I-B
+567,11140,11140_3_6_7,California Lower Montane Blue Oak-Foothill Pine Woodland and Savanna,Hardwood,128,572,10,9,7,2,91,I-B
+568,11280,11280_2_3_4,Northern California Coastal Scrub,Shrubland,110,NA,NA,110,100,NA,NA,IV-B
+569,11300,11300_3_4,California Mesic Serpentine Grassland,Grassland,7,NA,NA,7,100,NA,NA,II-B
+570,11310,11310_2_3_4,California Northern Coastal Grassland,Grassland,2,NA,NA,2,100,NA,NA,II-A
+571,11370,11370_3_6,Mediterranean California Subalpine Meadow,Grassland,40,161,NA,32,80,20,NA,II-C
+572,11380,11380_3_5,North Pacific Montane Grassland,Grassland,64,NA,NA,64,100,NA,NA,IV-A
+573,11520,11520_2_3_7,California Montane Riparian Systems,Riparian,64,79,NA,35,55,45,NA,I-C
+574,11630,11630_3_4_5,Pacific Coastal Marsh Systems,Riparian,15,35,NA,11,69,31,NA,II-B
+575,11700,11700_2_3_7,Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral,Conifer,201,NA,14,13,7,NA,93,I-B
+576,11770,11770_3,California Coastal Closed-Cone Conifer Forest and Woodland,Conifer,45,85,85,22,48,26,26,I-C
+580,10170,10170_6_7_8_9_12_18,Columbia Plateau Western Juniper Woodland and Savanna,Conifer,445,272,NA,169,38,62,NA,III-B
+581,10190,10190_6_7_9_12_16_17_18_19,Great Basin Pinyon-Juniper Woodland,Conifer,865,898,NA,440,51,49,NA,V-A
+582,10200,10200_6_9_12_17,Inter-Mountain Basins Subalpine Limber-Bristlecone Pine Woodland,Conifer,497,NA,200,143,29,NA,71,III-B
+584,10270,10270_4_5_6,Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,Conifer,150,35,17,11,7,31,62,I-B
+585,10280,10280_4_6_7_12,Mediterranean California Mesic Mixed Conifer Forest and Woodland,Conifer,148,46,33,17,12,37,51,I-C
+589,10321,10321_6,Mediterranean California Red Fir Forest-Cascades,Conifer,149,176,58,34,23,19,58,I-C
+590,10322,10322_6,Mediterranean California Red Fir Forest-Southern Sierra,Conifer,294,317,78,52,18,16,66,III-A
+592,10340,10340_4_6_7,Mediterranean California Mesic Serpentine Woodland and Chaparral,Shrubland,182,108,NA,68,37,63,NA,III-A
+593,10431,10431_2_3_6_7,Mediterranean California Mixed Evergreen Forest-Interior,Conifer,165,46,23,14,9,30,61,I-B
+595,10510,10510_6,Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Conifer,91,76,14,11,12,14,74,I-B
+596,10581,10581_6,Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland-Wet,Conifer,158,51,460,36,23,69,8,III-A
+597,10582,10582_6,Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland-Dry,Conifer,244,56,59,26,11,46,43,I-C
+598,10610,10610_6,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Hardwood-Conifer,149,224,60,36,24,16,60,III-A
+599,10620,10620_6_12_17_18,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Shrubland,288,149,238,69,24,47,29,III-A
+600,10670,10670_6,Mediterranean California Alpine Fell-Field,Shrubland,526,NA,NA,526,100,NA,NA,V-B
+601,10710,10710_6,Sierra Nevada Alpine Dwarf-Shrubland,Shrubland,228,NA,NA,228,100,NA,NA,V-A
+605,10820,10820_6,Mojave Mid-Elevation Mixed Desert Scrub,Shrubland,516,NA,NA,516,100,NA,NA,V-B
+608,10980,10980_6,California Montane Woodland and Chaparral,Shrubland,92,54,NA,34,37,63,NA,I-C
+613,11260,11260_6_12_17_18_28,Inter-Mountain Basins Montane Sagebrush Steppe,Shrubland,49,NA,NA,49,100,NA,NA,IV-A
+614,11360,11360_6,Mediterranean California Alpine Dry Tundra,Grassland,209,NA,NA,209,100,NA,NA,V-A
+616,11380,11380_6,North Pacific Montane Grassland,Grassland,16,NA,NA,16,100,NA,NA,II-C
+617,11520,11520_6,California Montane Riparian Systems,Riparian,88,95,NA,46,52,48,NA,III-A
+619,11540,11540_6_12_16_17,Inter-Mountain Basins Montane Riparian Systems,Riparian,378,NA,NA,378,100,NA,NA,V-A
+622,10110,10110_9,Rocky Mountain Aspen Forest and Woodland,Hardwood,59,50,NA,27,46,54,NA,I-C
+626,10450,10450_1_7_8_9,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest,Conifer,184,107,32,22,12,21,67,I-C
+627,10460,10460_1_7_9,Northern Rocky Mountain Subalpine Woodland and Parkland,Conifer,345,79,NA,64,19,81,NA,III-A
+628,10470,10470_8_9,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,Conifer,201,153,351,70,35,45,20,III-A
+629,10531,10531_1_7_8_9,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna-Mesic,Conifer,273,78,19,14,6,18,76,I-B
+630,10532,10532_7_9,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna-Xeric,Conifer,258,100,136,47,18,47,35,III-A
+631,10550,10550_1_8_9,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Conifer,232,248,NA,120,52,48,NA,III-B
+632,10560,10560_1_7_8_9,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Conifer,120,415,NA,93,78,22,NA,III-A
+633,10610,10610_8_9_17,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Hardwood-Conifer,68,44,NA,27,39,61,NA,I-C
+634,10620,10620_7_9,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Shrubland,243,213,244,77,32,36,32,III-A
+637,10800,10800_1_7_8_9,Inter-Mountain Basins Big Sagebrush Shrubland,Shrubland,101,NA,NA,101,100,NA,NA,IV-B
+638,10810,10810_7_8_9,Inter-Mountain Basins Mixed Salt Desert Scrub,Shrubland,698,NA,NA,698,100,NA,NA,V-B
+639,11060,11060_1_8_9,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,Shrubland,41,NA,NA,41,100,NA,NA,IV-A
+640,11230,11230_1_7_8_9,Columbia Plateau Steppe and Grassland,Grassland,39,NA,NA,39,100,NA,NA,IV-A
+641,11240,11240_1_7_8_9,Columbia Plateau Low Sagebrush Steppe,Shrubland,222,NA,NA,222,100,NA,NA,V-A
+644,11270,11270_7_8_9,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Shrubland,212,NA,NA,212,100,NA,NA,V-A
+645,11340,11340_8_9,Columbia Basin Foothill and Canyon Dry Grassland,Grassland,21,16,NA,9,43,57,NA,I-B
+647,11390,11390_8_9,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,Grassland,44,186,NA,35,81,19,NA,II-C
+648,11400,11400_9,Northern Rocky Mountain Subalpine-Upper Montane Grassland,Grassland,675,1495,NA,464,69,31,NA,V-A
+652,11530,11530_7_8_9,Inter-Mountain Basins Greasewood Flat,Shrubland,1019,NA,NA,1019,100,NA,NA,V-B
+653,11540,11540_1_7_8_9,Inter-Mountain Basins Montane Riparian Systems,Riparian,99,NA,NA,99,100,NA,NA,IV-A
+654,11590,11590_8_9,Rocky Mountain Montane Riparian Systems,Riparian,99,100,NA,50,50,50,NA,III-A
+655,11600,11600_8_9,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Riparian,200,133,NA,80,40,60,NA,III-A
+657,11650,11650_9,Northern Rocky Mountain Foothill Conifer Wooded Steppe,Conifer,204,149,23,18,9,12,79,I-C
+659,11670,11670_1_7_9,Rocky Mountain Poor-Site Lodgepole Pine Forest,Conifer,111,113,NA,56,50,50,NA,III-A
+680,11420,11420_8,Columbia Basin Palouse Prairie,Grassland,25,NA,64,18,72,NA,28,II-C
+685,11650,11650_1_7_8,Northern Rocky Mountain Foothill Conifer Wooded Steppe,Conifer,124,397,126,54,43,14,43,III-A
+686,10110,10110_21,Rocky Mountain Aspen Forest and Woodland,Hardwood,110,NA,NA,110,100,NA,NA,IV-B
+687,10120,10120_17_18_21,Rocky Mountain Bigtooth Maple Ravine Woodland,Hardwood,135,81,NA,51,37,63,NA,III-A
+688,10450,10450_21,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest,Conifer,76,108,270,38,50,36,14,III-A
+689,10460,10460_21,Northern Rocky Mountain Subalpine Woodland and Parkland,Conifer,515,324,NA,199,39,61,NA,III-B
+691,10510,10510_18_21,Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Conifer,90,77,14,11,12,14,74,I-B
+692,10520,10520_21,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Conifer,185,90,72,33,18,37,45,I-C
+693,10550,10550_21_22,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Conifer,333,NA,NA,333,100,NA,NA,V-A
+694,10560,10560_21_22,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Conifer,432,895,NA,291,67,33,NA,V-A
+696,10700,10700_21,Rocky Mountain Alpine Dwarf-Shrubland,Shrubland,566,NA,NA,566,100,NA,NA,V-B
+697,10801,10801_21_22_28,Inter-Mountain Basins Big Sagebrush Shrubland-Basin Big Sagebrush,Shrubland,72,NA,NA,72,100,NA,NA,IV-A
+698,10802,10802_21_22_28,Inter-Mountain Basins Big Sagebrush Shrubland-Wyoming Big Sagebrush,Shrubland,98,NA,NA,98,100,NA,NA,IV-A
+701,11060,11060_20_21_29,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,Shrubland,79,NA,NA,79,100,NA,NA,IV-A
+702,11150,11150_21_22,Inter-Mountain Basins Juniper Savanna,Conifer,355,212,123,64,18,30,52,III-A
+704,11260,11260_21,Inter-Mountain Basins Montane Sagebrush Steppe,Shrubland,50,NA,NA,50,100,NA,NA,IV-A
+705,11270,11270_21,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Shrubland,217,NA,NA,217,100,NA,NA,V-A
+706,11390,11390_21,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,Grassland,32,NA,NA,32,100,NA,NA,II-C
+707,11400,11400_21,Northern Rocky Mountain Subalpine-Upper Montane Grassland,Grassland,206,NA,NA,206,100,NA,NA,V-A
+709,11440,11440_21_22,Rocky Mountain Alpine Turf,Grassland,515,NA,NA,515,100,NA,NA,V-B
+710,11450,11450_21,Rocky Mountain Subalpine-Montane Mesic Meadow,Grassland,40,NA,NA,40,100,NA,NA,IV-A
+712,11590,11590_21,Rocky Mountain Montane Riparian Systems,Riparian,180,NA,NA,180,100,NA,NA,IV-B
+713,11600,11600_21,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Riparian,335,2775,NA,299,89,11,NA,V-A
+714,11610,11610_21,Northern Rocky Mountain Conifer Swamp,Conifer,401,NA,NA,401,100,NA,NA,V-A
+715,11660,11660_21,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,Conifer,296,46,NA,40,14,86,NA,III-A
+716,11670,11670_21,Rocky Mountain Poor-Site Lodgepole Pine Forest,Conifer,324,551,NA,204,63,37,NA,V-A
+718,10030,10030,North Pacific Sparsely Vegetated Systems,Sparse,NA,NA,NA,NA,NA,NA,NA,NA
+721,10180,10180_1_7,East Cascades Mesic Montane Mixed-Conifer Forest and Woodland,Conifer,253,129,276,65,26,50,24,III-A
+722,10350,10350_1_2_7,North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland,Conifer,367,70,90,35,10,50,40,I-C
+723,10360,10360_1_2,North Pacific Hypermaritime Sitka Spruce Forest,Conifer,657,NA,NA,657,100,NA,NA,V-B
+724,10370,10370_1_2_7,North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest,Conifer,336,105,NA,80,24,76,NA,III-A
+725,10380,10380_1_7,North Pacific Maritime Mesic Subalpine Parkland,Conifer,5183,NA,NA,5183,100,NA,NA,V-B
+727,10411,10411_1_7,North Pacific Mountain Hemlock Forest-Wet,Conifer,10910,5135,NA,3461,32,68,NA,V-B
+728,10412,10412_1_7,North Pacific Mountain Hemlock Forest-Xeric,Conifer,294,615,1001,166,56,27,17,III-B
+729,10420,10420_1_7,North Pacific Mesic Western Hemlock-Silver Fir Forest,Conifer,3606,1742,NA,1172,33,67,NA,V-B
+735,10600,10600_1_2_7,East Cascades Oak-Ponderosa Pine Forest and Woodland,Conifer,383,644,31,28,7,4,89,I-C
+736,10630,10630_1,North Pacific Broadleaf Landslide Forest and Shrubland,Hardwood,457,915,NA,304,67,33,NA,V-A
+738,10680,10680_1_7,North Pacific Dry and Mesic Alpine Dwarf-Shrubland or Fell-field or Meadow,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+740,10830,10830_1,North Pacific Avalanche Chute Shrubland,Shrubland,998,NA,NA,998,100,NA,NA,V-B
+741,10840,10840_1,North Pacific Montane Shrubland,Shrubland,10975,NA,NA,10975,100,NA,NA,V-B
+743,11200,11200_1_2_7,Willamette Valley Upland Prairie and Savanna,Hardwood,288,50,13,10,4,19,77,I-B
+748,11380,11380_1,North Pacific Montane Grassland,Grassland,771,NA,NA,771,100,NA,NA,V-B
+750,11560,11560_1_2_7,North Pacific Lowland Riparian Forest and Shrubland,Riparian,749,NA,NA,749,100,NA,NA,V-B
+751,11570,11570_1_2,North Pacific Swamp Systems,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+752,11581,11581_1_2_7,North Pacific Montane Riparian Woodland and Shrubland-Wet,Riparian,1888,1598,NA,865,46,54,NA,V-B
+753,11582,11582_1_2_7,North Pacific Montane Riparian Woodland and Shrubland-Dry,Riparian,465,233,NA,155,33,67,NA,III-B
+756,11710,11710_1,North Pacific Alpine and Subalpine Dry Grassland,Grassland,504,NA,NA,504,100,NA,NA,V-B
+757,11730,11730_1_7,North Pacific Wooded Volcanic Flowage,Conifer,497,NA,NA,497,100,NA,NA,V-A
+758,11740,11740_1_7,North Pacific Dry-Mesic Silver Fir-Western Hemlock-Douglas-fir Forest,Conifer,334,308,NA,160,48,52,NA,III-B
+759,11780,11780_1_2_7,North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest,Conifer,NA,NA,NA,NA,NA,NA,NA,NA
+776,10630,10630_2_7,North Pacific Broadleaf Landslide Forest and Shrubland,Hardwood,100,498,NA,83,83,17,NA,IV-A
+791,10110,10110_7,Rocky Mountain Aspen Forest and Woodland,Hardwood,125,100,NA,56,45,55,NA,III-A
+801,10310,10310_7,California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,Conifer,200,118,26,19,10,16,74,I-C
+819,10580,10580_7,Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland,Conifer,91,NA,650,80,88,NA,12,IV-A
+827,10980,10980_7,California Montane Woodland and Chaparral,Shrubland,49,197,234,34,68,17,15,II-C
+847,11710,11710_7,North Pacific Alpine and Subalpine Dry Grassland,Grassland,203,NA,NA,203,100,NA,NA,V-A
+848,11720,11720_7,Sierran-Intermontane Desert Western White Pine-White Fir Woodland,Conifer,202,65,45,24,12,36,52,I-C
+852,10070,10070,Western Great Plains Sparsely Vegetated Systems,Sparse,NA,NA,NA,NA,NA,NA,NA,NA
+853,10110,10110_20_29,Rocky Mountain Aspen Forest and Woodland,Hardwood,121,588,NA,100,83,17,NA,IV-A
+854,10451,10451_20,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Ponderosa Pine-Douglas-fir,Conifer,163,51,43,20,13,40,47,I-C
+855,10454,10454_20,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Lodgepole Pine,Conifer,145,277,387,77,52,28,20,III-A
+858,10540,10540_20,Southern Rocky Mountain Ponderosa Pine Woodland,Conifer,232,77,19,14,6,18,76,I-B
+859,10550,10550_20,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Conifer,136,383,NA,100,74,26,NA,III-A
+860,10560,10560_20,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Conifer,216,2915,NA,201,93,7,NA,V-A
+861,10610,10610_20_29,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Hardwood-Conifer,118,102,NA,54,46,54,NA,III-A
+862,10850,10850_20,Northwestern Great Plains Shrubland,Shrubland,30,NA,NA,30,100,NA,NA,II-C
+864,11170,11170_20,Southern Rocky Mountain Ponderosa Pine Savanna,Conifer,392,75,18,14,4,18,78,I-B
+865,11250,11250_20_29_30_31_33,Inter-Mountain Basins Big Sagebrush Steppe,Shrubland,92,NA,NA,92,100,NA,NA,IV-A
+866,11260,11260_20_29_33,Inter-Mountain Basins Montane Sagebrush Steppe,Shrubland,50,NA,NA,50,100,NA,NA,IV-A
+867,11390,11390_20,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,Grassland,20,NA,NA,20,100,NA,NA,II-C
+868,11400,11400_20,Northern Rocky Mountain Subalpine-Upper Montane Grassland,Grassland,79,NA,NA,79,100,NA,NA,IV-A
+869,11410,11410_20,Northwestern Great Plains Mixedgrass Prairie,Grassland,12,NA,NA,12,100,NA,NA,II-B
+870,11450,11450_20,Rocky Mountain Subalpine-Montane Mesic Meadow,Grassland,84,NA,NA,84,100,NA,NA,IV-A
+871,11480,11480_20_29_30,Western Great Plains Sand Prairie,Grassland,22,NA,NA,22,100,NA,NA,II-C
+872,11530,11530_20_22_29_30,Inter-Mountain Basins Greasewood Flat,Shrubland,207,NA,NA,207,100,NA,NA,V-A
+873,11590,11590_20,Rocky Mountain Montane Riparian Systems,Riparian,100,115,NA,53,53,47,NA,III-A
+874,11600,11600_20_29,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Riparian,304,301,NA,151,50,50,NA,III-B
+875,11620,11620_20,Western Great Plains Floodplain Systems,Riparian,106,247,246,57,54,23,23,III-A
+876,13850,13850_20,Western Great Plains Wooded Draw and Ravine,Shrubland,47,50,83,19,39,38,23,I-C
+877,14950,14950_20,Western Great Plains Depressional Wetland Systems,Riparian,50,NA,NA,50,100,NA,NA,IV-A
+879,10110,10110_22,Rocky Mountain Aspen Forest and Woodland,Hardwood,163,NA,NA,163,100,NA,NA,IV-B
+880,10160,10160_22,Colorado Plateau Pinyon-Juniper Woodland,Conifer,458,215,3310,140,31,65,4,III-B
+881,10490,10490_16_22,Rocky Mountain Foothill Limber Pine-Juniper Woodland,Conifer,216,NA,NA,216,100,NA,NA,V-A
+882,10500,10500_22,Rocky Mountain Lodgepole Pine Forest,Conifer,169,NA,NA,169,100,NA,NA,IV-B
+883,10510,10510_15_16_17_22_23_24_25,Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Conifer,90,77,14,11,12,14,74,I-B
+884,10540,10540_22,Southern Rocky Mountain Ponderosa Pine Woodland,Conifer,165,49,19,13,8,26,66,I-B
+887,10610,10610_22_27_28,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Hardwood-Conifer,78,73,126,29,37,40,23,I-C
+888,10620,10620_22_28,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Shrubland,229,78,NA,58,25,75,NA,III-A
+889,10660,10660_22,Inter-Mountain Basins Mat Saltbush Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+890,10720,10720_22_29,Wyoming Basins Dwarf Sagebrush Shrubland and Steppe,Shrubland,331,NA,NA,331,100,NA,NA,V-A
+893,10810,10810_22,Inter-Mountain Basins Mixed Salt Desert Scrub,Shrubland,450,NA,NA,450,100,NA,NA,V-A
+894,10861,10861_22,Rocky Mountain Lower Montane-Foothill Shrubland-No True Mountain Mahogany,Shrubland,89,NA,NA,89,100,NA,NA,IV-A
+895,10862,10862_22,Rocky Mountain Lower Montane-Foothill Shrubland-True Mountain Mahogany,Shrubland,106,NA,NA,106,100,NA,NA,IV-B
+896,11060,11060_22,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,Shrubland,81,383,NA,67,83,17,NA,IV-A
+898,11260,11260_22,Inter-Mountain Basins Montane Sagebrush Steppe,Shrubland,86,NA,NA,86,100,NA,NA,IV-A
+899,11270,11270_22,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Shrubland,448,NA,NA,448,100,NA,NA,V-A
+900,11350,11350_22,Inter-Mountain Basins Semi-Desert Grassland,Grassland,25,NA,NA,25,100,NA,NA,II-C
+901,11390,11390_22,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,Grassland,66,NA,NA,66,100,NA,NA,IV-A
+903,11450,11450_22_24_28,Rocky Mountain Subalpine-Montane Mesic Meadow,Grassland,40,161,NA,32,80,20,NA,II-C
+905,11590,11590_22,Rocky Mountain Montane Riparian Systems,Riparian,271,NA,79,61,23,NA,77,III-A
+906,11620,11620_22,Western Great Plains Floodplain Systems,Riparian,571,125,NA,103,18,82,NA,III-B
+907,11660,11660_22,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,Conifer,207,53,138,32,16,60,24,I-C
+910,10140,10140_4_5,Central and Southern California Mixed Evergreen Woodland,Hardwood,335,34,10,8,3,22,75,I-B
+915,10430,10430_5,Mediterranean California Mixed Evergreen Forest,Conifer,316,66,11,9,3,14,83,I-B
+916,10880,10880_4_5,Sonora-Mojave Mixed Salt Desert Scrub,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+917,10970,10970_4_5,California Mesic Chaparral,Shrubland,79,NA,NA,79,100,NA,NA,IV-A
+918,11050,11050_4_5,Northern and Central California Dry-Mesic Chaparral,Shrubland,50,NA,NA,50,100,NA,NA,IV-A
+920,11120,11120_4_5,California Central Valley Mixed Oak Savanna,Hardwood,181,96,14,11,6,12,82,I-B
+921,11140,11140_4_5,California Lower Montane Blue Oak-Foothill Pine Woodland and Savanna,Hardwood,127,150,14,12,9,8,83,I-B
+922,11290,11290_4_5,California Central Valley and Southern Coastal Grassland,Grassland,4,NA,NA,4,100,NA,NA,II-A
+924,11510,11510_4_5,California Central Valley Riparian Woodland and Shrubland,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+925,11520,11520_4_5,California Montane Riparian Systems,Riparian,100,76,NA,43,43,57,NA,III-A
+930,10190,10190_4,Great Basin Pinyon-Juniper Woodland,Conifer,640,467,814,203,32,43,25,V-A
+937,10580,10580_4,Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland,Conifer,282,105,146,50,18,48,34,III-A
+941,10920,10920_4,Southern California Coastal Scrub,Shrubland,150,NA,NA,150,100,NA,NA,IV-B
+942,10960,10960_4,California Maritime Chaparral,Shrubland,124,NA,NA,124,100,NA,NA,IV-B
+944,10980,10980_4,California Montane Woodland and Chaparral,Shrubland,58,121,NA,39,68,32,NA,III-A
+945,10990,10990_4,California Xeric Serpentine Chaparral,Shrubland,81,NA,NA,81,100,NA,NA,IV-A
+949,11100,11100_4,Southern California Dry-Mesic Chaparral,Shrubland,51,NA,NA,51,100,NA,NA,IV-A
+951,11130,11130_4,California Coastal Live Oak Woodland and Savanna,Hardwood,175,31,27,13,8,42,50,I-B
+953,11180,11180_4,Southern California Oak Woodland and Savanna,Hardwood,173,43,30,16,9,37,54,I-C
+960,11550,11550_4,North American Warm Desert Riparian Systems,Riparian,788,23,NA,23,3,97,NA,I-C
+962,11770,11770_4,California Coastal Closed-Cone Conifer Forest and Woodland,Conifer,40,341,NA,36,90,10,NA,IV-A
+965,10110,10110_16_23_24,Rocky Mountain Aspen Forest and Woodland,Hardwood,59,50,NA,27,46,54,NA,I-C
+966,10120,10120_16_27,Rocky Mountain Bigtooth Maple Ravine Woodland,Hardwood,136,82,NA,51,38,62,NA,III-A
+967,10160,10160_16_23_24_25,Colorado Plateau Pinyon-Juniper Woodland,Conifer,435,195,2265,127,29,65,6,III-B
+970,10500,10500_16_23_28,Rocky Mountain Lodgepole Pine Forest,Conifer,152,NA,640,123,81,NA,19,IV-B
+972,10520,10520_16_23_24,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Conifer,180,89,74,33,19,37,44,I-C
+973,10540,10540_16_23_24,Southern Rocky Mountain Ponderosa Pine Woodland,Conifer,280,226,20,17,6,8,86,I-C
+974,10550,10550_16_23_24,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Conifer,214,7242,NA,208,97,3,NA,V-A
+975,10560,10560_16_23,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Conifer,217,6998,NA,210,97,3,NA,V-A
+976,10570,10570_12_16,Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland,Conifer,508,NA,199,143,28,NA,72,III-B
+977,10611,10611_16_23_24,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland-Low Elevation,Hardwood-Conifer,43,13,NA,10,24,76,NA,I-B
+978,10612,10612_16_23,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland-High Elevation,Hardwood-Conifer,70,60,NA,32,46,54,NA,I-C
+979,10620,10620_16_23,Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Shrubland,246,137,228,64,26,46,28,III-A
+981,10700,10700_16,Rocky Mountain Alpine Dwarf-Shrubland,Shrubland,227,NA,NA,227,100,NA,NA,V-A
+985,10810,10810_15_16_23_24_28,Inter-Mountain Basins Mixed Salt Desert Scrub,Shrubland,616,NA,NA,616,100,NA,NA,V-B
+988,11020,11020_13_15_16_23_24,Colorado Plateau Pinyon-Juniper Shrubland,Conifer,333,222,127,65,20,29,51,III-A
+990,11071,11071_16,Rocky Mountain Gambel Oak-Mixed Montane Shrubland -Continuous,Shrubland,57,162,NA,42,74,26,NA,III-A
+991,11072,11072_16,Rocky Mountain Gambel Oak-Mixed Montane Shrubland-Patchy,Shrubland,153,51,NA,39,25,75,NA,III-A
+992,11150,11150_15_16_23_24,Inter-Mountain Basins Juniper Savanna,Conifer,333,218,126,64,20,29,51,III-A
+993,11170,11170_16_23_24,Southern Rocky Mountain Ponderosa Pine Savanna,Conifer,158,80,9,8,5,10,85,I-B
+996,11262,11262_16_23,Inter-Mountain Basins Montane Sagebrush Steppe-Low Sagebrush,Shrubland,219,NA,NA,219,100,NA,NA,V-A
+997,11270,11270_16_23_24_25,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Shrubland,105,NA,NA,105,100,NA,NA,IV-B
+998,11350,11350_16_23_24,Inter-Mountain Basins Semi-Desert Grassland,Grassland,25,NA,NA,25,100,NA,NA,II-C
+1000,11450,11450_16,Rocky Mountain Subalpine-Montane Mesic Meadow,Grassland,40,160,NA,32,80,20,NA,II-C
+1002,11530,11530_16_23_24_25_27,Inter-Mountain Basins Greasewood Flat,Shrubland,208,NA,NA,208,100,NA,NA,V-A
+1004,11590,11590_16_23_24_26,Rocky Mountain Montane Riparian Systems,Riparian,270,NA,79,61,23,NA,77,III-A
+1005,11600,11600_16,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Riparian,271,NA,80,61,23,NA,77,III-A
+1018,10570,10570_23,Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland,Conifer,502,NA,200,143,29,NA,71,III-B
+1032,11040,11040_23_24,Mogollon Chaparral,Shrubland,47,370,NA,42,89,11,NA,IV-A
+1033,11070,11070_23_24,Rocky Mountain Gambel Oak-Mixed Montane Shrubland,Shrubland,51,150,NA,38,74,26,NA,III-A
+1044,11600,11600_23,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Riparian,274,NA,79,62,22,NA,78,III-A
+1055,10330,10330_12,Mediterranean California Subalpine Woodland,Conifer,349,78,NA,64,18,82,NA,III-A
+1056,10520,10520_12,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Conifer,186,91,72,33,18,36,46,I-C
+1058,10580,10580_12,Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland,Conifer,159,51,466,36,23,69,8,III-A
+1075,11590,11590_12_17,Rocky Mountain Montane Riparian Systems,Riparian,379,NA,NA,379,100,NA,NA,V-A
+1076,11600,11600_12_17,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Riparian,271,NA,79,61,23,NA,77,III-A
+1080,10160,10160_17,Colorado Plateau Pinyon-Juniper Woodland,Conifer,427,194,2177,126,29,65,6,III-B
+1084,10520,10520_17,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Conifer,184,91,72,33,18,36,46,I-C
+1085,10540,10540_17,Southern Rocky Mountain Ponderosa Pine Woodland,Conifer,257,39,28,15,6,39,55,I-B
+1086,10550,10550_17,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Conifer,176,16701,NA,174,99,1,NA,IV-B
+1097,11040,11040_17,Mogollon Chaparral,Shrubland,50,NA,NA,50,100,NA,NA,IV-A
+1098,11070,11070_17,Rocky Mountain Gambel Oak-Mixed Montane Shrubland,Shrubland,153,52,NA,39,25,75,NA,III-A
+1099,11080,11080_17,Sonora-Mojave Semi-Desert Chaparral,Shrubland,50,NA,NA,50,100,NA,NA,IV-A
+1100,11150,11150_17,Inter-Mountain Basins Juniper Savanna,Conifer,815,428,553,186,23,43,34,III-B
+1106,11450,11450_17,Rocky Mountain Subalpine-Montane Mesic Meadow,Grassland,40,NA,NA,40,100,NA,NA,IV-A
+1116,10240,10240_14_15_24,Madrean Lower Montane Pine-Oak Forest and Woodland,Conifer,125,191,33,23,19,12,69,I-C
+1122,10590,10590_24_28,Southern Rocky Mountain Pinyon-Juniper Woodland,Conifer,435,200,1930,128,29,64,7,III-B
+1134,11160,11160_24,Madrean Juniper Savanna,Conifer,139,214,101,46,33,21,46,III-A
+1136,11190,11190_24_25,Southern Rocky Mountain Juniper Woodland and Savanna,Conifer,503,217,32,26,5,12,83,I-C
+1137,11210,11210_24,Apacherian-Chihuahuan Semi-Desert Grassland and Steppe,Grassland,10,NA,42,8,81,NA,19,II-B
+1146,10110,10110_28,Rocky Mountain Aspen Forest and Woodland,Hardwood,145,1732,844,116,79,7,14,IV-B
+1147,10160,10160_15_28,Colorado Plateau Pinyon-Juniper Woodland,Conifer,430,194,2245,126,29,65,6,III-B
+1150,10510,10510_28,Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Conifer,325,54,32,19,6,35,59,I-C
+1151,10520,10520_28,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Conifer,202,144,153,54,27,38,35,III-A
+1152,10540,10540_28,Southern Rocky Mountain Ponderosa Pine Woodland,Conifer,505,159,24,20,4,13,83,I-C
+1153,10550,10550_15_28,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Conifer,199,435,NA,137,69,31,NA,IV-B
+1154,10560,10560_15_28,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Conifer,199,435,NA,137,69,31,NA,IV-B
+1155,10570,10570_28,Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland,Conifer,499,202,NA,144,29,71,NA,III-B
+1163,10860,10860_28,Rocky Mountain Lower Montane-Foothill Shrubland,Shrubland,73,210,NA,54,74,26,NA,III-A
+1164,11020,11020_28,Colorado Plateau Pinyon-Juniper Shrubland,Conifer,431,192,2125,125,29,65,6,III-B
+1165,11070,11070_25_28,Rocky Mountain Gambel Oak-Mixed Montane Shrubland,Shrubland,50,171,NA,39,77,23,NA,III-A
+1166,11150,11150_28,Inter-Mountain Basins Juniper Savanna,Conifer,337,434,276,112,33,26,41,III-B
+1167,11170,11170_13_15_28,Southern Rocky Mountain Ponderosa Pine Savanna,Conifer,368,NA,11,11,3,NA,97,I-B
+1168,11190,11190_28,Southern Rocky Mountain Juniper Woodland and Savanna,Conifer,501,212,32,26,6,12,82,I-C
+1171,11270,11270_28,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Shrubland,120,NA,NA,120,100,NA,NA,IV-B
+1172,11350,11350_15_28,Inter-Mountain Basins Semi-Desert Grassland,Grassland,77,37,NA,25,33,67,NA,I-C
+1177,11530,11530_28,Inter-Mountain Basins Greasewood Flat,Shrubland,204,NA,NA,204,100,NA,NA,V-A
+1178,11590,11590_28,Rocky Mountain Montane Riparian Systems,Riparian,270,NA,79,61,23,NA,77,III-A
+1179,11600,11600_15_28,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Riparian,273,NA,80,62,23,NA,77,III-A
+1181,10110,10110_15,Rocky Mountain Aspen Forest and Woodland,Hardwood,146,1774,841,116,79,7,14,IV-B
+1183,10190,10190_15,Great Basin Pinyon-Juniper Woodland,Conifer,475,335,765,156,33,47,20,III-B
+1187,10260,10260_15,Madrean Upper Montane Conifer-Oak Forest and Woodland,Conifer,305,62,13,10,4,16,80,I-B
+1189,10520,10520_15,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Conifer,186,90,72,33,18,37,45,I-C
+1190,10540,10540_15_25,Southern Rocky Mountain Ponderosa Pine Woodland,Conifer,396,108,10,9,2,9,89,I-B
+1193,10610,10610_15_25,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Hardwood-Conifer,43,20,110,12,28,61,11,I-B
+1194,10770,10770_15,Chihuahuan Succulent Desert Scrub,Shrubland,347,NA,NA,347,100,NA,NA,V-A
+1199,10910,10910_15,Sonoran Mid-Elevation Desert Scrub,Shrubland,355,NA,NA,355,100,NA,NA,V-A
+1200,11000,11000_15,Chihuahuan Mixed Desert and Thorn Scrub,Shrubland,567,802,NA,332,59,41,NA,V-A
+1202,11040,11040_15,Mogollon Chaparral,Shrubland,80,NA,2171,77,96,NA,4,IV-A
+1203,11070,11070_15,Rocky Mountain Gambel Oak-Mixed Montane Shrubland,Shrubland,50,174,NA,39,78,22,NA,III-A
+1204,11090,11090_15_25,Sonoran Paloverde-Mixed Cacti Desert Scrub,Shrubland,1049,NA,NA,1049,100,NA,NA,V-B
+1206,11160,11160_15_25,Madrean Juniper Savanna,Conifer,136,208,106,46,34,22,44,III-A
+1208,11210,11210_15,Apacherian-Chihuahuan Semi-Desert Grassland and Steppe,Grassland,10,NA,40,8,80,NA,20,II-B
+1209,11270,11270_15,Inter-Mountain Basins Semi-Desert Shrub-Steppe,Shrubland,118,NA,NA,118,100,NA,NA,IV-B
+1212,11550,11550_15,North American Warm Desert Riparian Systems,Riparian,777,83,NA,75,10,90,NA,III-A
+1214,11590,11590_15,Rocky Mountain Montane Riparian Systems,Riparian,54,NA,8,7,12,NA,88,I-B
+1222,10460,10460_18,Northern Rocky Mountain Subalpine Woodland and Parkland,Conifer,227,385,57,41,18,11,71,III-A
+1223,10500,10500_18,Rocky Mountain Lodgepole Pine Forest,Conifer,151,NA,643,122,81,NA,19,IV-B
+1225,10520,10520_18,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Conifer,186,90,72,33,18,37,45,I-C
+1226,10550,10550_18,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Conifer,175,686,NA,139,80,20,NA,IV-B
+1227,10560,10560_18,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Conifer,176,683,NA,140,80,20,NA,IV-B
+1228,10570,10570_18,Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland,Conifer,504,NA,198,142,28,NA,72,III-B
+1229,10610,10610_18,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Hardwood-Conifer,76,45,NA,28,37,63,NA,I-C
+1235,11060,11060_18,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,Shrubland,101,78,NA,44,44,56,NA,III-A
+1244,11540,11540_18,Inter-Mountain Basins Montane Riparian Systems,Riparian,174,NA,NA,174,100,NA,NA,IV-B
+1245,11590,11590_18,Rocky Mountain Montane Riparian Systems,Riparian,174,NA,NA,174,100,NA,NA,IV-B
+1246,11600,11600_18,Rocky Mountain Subalpine/Upper Montane Riparian Systems,Riparian,67,NA,113,42,63,NA,37,III-A
+1250,10480,10480_29,Northwestern Great Plains Highland White Spruce Woodland,Conifer,270,119,45,29,11,24,65,I-C
+1252,10510,10510_29,Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Conifer,94,77,14,11,11,14,75,I-B
+1253,10540,10540_29,Southern Rocky Mountain Ponderosa Pine Woodland,Conifer,303,265,20,18,6,7,87,I-C
+1254,10550,10550_29,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Conifer,113,NA,NA,113,100,NA,NA,IV-B
+1255,10560,10560_29,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Conifer,349,1073,NA,263,75,25,NA,V-A
+1256,10570,10570_29,Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland,Conifer,499,NA,999,333,67,NA,33,V-A
+1259,10660,10660_29,Inter-Mountain Basins Mat Saltbush Shrubland,Shrubland,440,NA,NA,440,100,NA,NA,V-A
+1261,10850,10850_29_30,Northwestern Great Plains Shrubland,Shrubland,15,NA,NA,15,100,NA,NA,II-B
+1262,10860,10860_29,Rocky Mountain Lower Montane-Foothill Shrubland,Shrubland,106,NA,NA,106,100,NA,NA,IV-B
+1264,11170,11170_29,Southern Rocky Mountain Ponderosa Pine Savanna,Conifer,382,NA,16,15,4,NA,96,I-B
+1267,11390,11390_29,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,Grassland,35,NA,NA,35,100,NA,NA,II-C
+1268,11400,11400_29,Northern Rocky Mountain Subalpine-Upper Montane Grassland,Grassland,79,NA,NA,79,100,NA,NA,IV-A
+1269,11410,11410_29_30,Northwestern Great Plains Mixedgrass Prairie,Grassland,13,NA,NA,13,100,NA,NA,II-B
+1270,11450,11450_29,Rocky Mountain Subalpine-Montane Mesic Meadow,Grassland,84,NA,NA,84,100,NA,NA,IV-A
+1272,11490,11490_29,Western Great Plains Shortgrass Prairie,Grassland,21,NA,NA,21,100,NA,NA,II-C
+1274,11590,11590_29,Rocky Mountain Montane Riparian Systems,Riparian,99,117,NA,54,54,46,NA,III-A
+1276,11620,11620_29_30,Western Great Plains Floodplain Systems,Riparian,111,148,259,51,46,34,20,III-A
+1277,11660,11660_29,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,Conifer,210,109,24,18,9,17,74,I-C
+1278,11791,11791_29_30,Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna-Low Elevation Woodland,Conifer,307,263,20,18,6,7,87,I-C
+1279,11792,11792_29_30,Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna-Savanna,Conifer,387,NA,15,15,4,NA,96,I-B
+1280,13850,13850_29_30,Western Great Plains Wooded Draw and Ravine,Shrubland,72,38,80,19,26,50,24,I-C
+1291,14820,14820_30,Great Plains Prairie Pothole,Grassland,50,NA,NA,50,100,NA,NA,IV-A
+1292,14950,14950_30,Western Great Plains Depressional Wetland Systems,Riparian,50,NA,NA,50,100,NA,NA,IV-A
+1293,13300,13300_46_48_54_55_56_99,Southern Coastal Plain Dry Upland Hardwood Forest,Hardwood,197,98,8,7,4,7,89,I-B
+1294,13350,13350_55_58_60,Atlantic Coastal Plain Dry and Dry-Mesic Oak Forest,Hardwood,198,98,8,7,4,7,89,I-B
+1295,13430,13430_54_55,Atlantic Coastal Plain Mesic Hardwood Forest,Hardwood,394,159,52,36,9,22,69,III-A
+1296,13460,13460_54_55_58,Atlantic Coastal Plain Fall-line Sandhills Longleaf Pine Woodland,Conifer,132,369,4,4,3,1,96,I-A
+1297,13470,13470_55_58_60,Atlantic Coastal Plain Upland Longleaf Pine Woodland,Conifer,131,376,4,4,3,1,96,I-A
+1298,13490,13490_46_48_54_55_99,East Gulf Coastal Plain Interior Upland Longleaf Pine Woodland,Conifer,116,766,3,3,3,1,96,I-A
+1299,13560,13560_55_56_99,Florida Longleaf Pine Sandhill,Conifer,190,14720,3,3,1,1,98,I-A
+1300,13570,13570_46_47_55_58_99,Southern Coastal Plain Mesic Slope Forest,Hardwood,402,159,52,35,9,22,69,I-C
+1301,13800,13800_55_99,East Gulf Coastal Plain Maritime Forest,Hardwood-Conifer,119,1658,36,27,23,2,75,I-C
+1302,13820,13820_55_58,Southern Atlantic Coastal Plain Maritime Forest,Hardwood-Conifer,69,882,14,12,17,1,82,I-B
+1303,13870,13870_55_56,Florida Peninsula Inland Scrub,Shrubland,33,1277,NA,33,97,3,NA,II-C
+1304,14500,14500_55_58,Southern Atlantic Coastal Plain Wet Pine Savanna and Flatwoods,Riparian,100,483,3,3,3,1,96,I-A
+1305,14530,14530_55_56,Central Florida Pine Flatwoods,Riparian,84,8941,2,2,3,1,96,I-A
+1306,14540,14540_55_56_99,East Gulf Coastal Plain Near-Coast Pine Flatwoods,Riparian,100,482,3,3,3,1,96,I-A
+1307,14600,14600_55_56_99,Southern Coastal Plain Nonriverine Cypress Dome,Riparian,126,NA,10,9,7,NA,93,I-B
+1308,14610,14610_46_55_56_99,Southern Coastal Plain Seepage Swamp and Baygall,Riparian,297,356,NA,162,55,45,NA,III-B
+1309,14680,14680_46_55_58_99,Atlantic Coastal Plain Streamhead Seepage Swamp-Pocosin-Baygall,Riparian,58,23,16,8,14,35,51,I-B
+1310,14730,14730_55_58_60,Gulf and Atlantic Coastal Plain Floodplain Systems,Riparian,114,NA,101,54,47,NA,53,III-A
+1311,14740,14740_46_47_48_55_56_58_60_99,Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,Riparian,477,202,131,68,14,34,52,III-A
+1312,14800,14800_55_99,Gulf and Atlantic Coastal Plain Swamp Systems,Riparian,NA,NA,221,221,NA,NA,100,V-A
+1313,14850,14850_55_99,East Gulf Coastal Plain Savanna and Wet Prairie,Savanna,164,511,3,3,2,1,97,I-A
+1314,14890,14890_55_56_99,Floridian Highlands Freshwater Marsh,Riparian,5,69,NA,5,93,7,NA,II-A
+1315,14900,14900_55_56_58_99,Gulf and Atlantic Coastal Plain Tidal Marsh Systems,Riparian,5,288,NA,5,98,2,NA,II-A
+1317,13330,13330_56,South Florida Hardwood Hammock,Hardwood,174,387,NA,120,69,31,NA,IV-B
+1318,13360,13360_56,Southwest Florida Coastal Strand and Maritime Hammock,Hardwood,NA,455,10,10,NA,2,98,I-B
+1319,13370,13370_56,Southeast Florida Coastal Strand and Maritime Hammock,Hardwood,NA,245,16,15,NA,6,94,I-B
+1321,13600,13600_56,South Florida Pine Rockland,Conifer,428,186,4,4,1,2,97,I-A
+1323,14250,14250_56,Florida Dry Prairie,Grassland,2,38,19,2,85,5,10,II-A
+1324,14450,14450_56,South Florida Dwarf Cypress Savanna,Savanna,119,74,36,20,17,27,56,I-C
+1325,14460,14460_56,South Florida Pine Flatwoods,Conifer,50,1124,3,3,6,1,93,I-A
+1326,14470,14470_56,South Florida Cypress Dome,Riparian,127,NA,10,9,7,NA,93,I-B
+1331,14700,14700_56,Caribbean Coastal Wetland Systems,Riparian,127,363,NA,94,74,26,NA,III-A
+1333,14780,14780_56,Caribbean Swamp Systems,Riparian,1379,NA,NA,1379,100,NA,NA,V-B
+1334,14800,14800_46_56_58_60_64_65_66,Gulf and Atlantic Coastal Plain Swamp Systems,Riparian,NA,NA,221,221,NA,NA,100,V-A
+1335,14830,14830_56,South Florida Everglades Sawgrass Marsh,Riparian,3,NA,76,3,96,NA,4,II-A
+1341,10240,10240_25_27,Madrean Lower Montane Pine-Oak Forest and Woodland,Conifer,60,30,11,7,12,23,65,I-B
+1344,10520,10520_25,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Conifer,182,90,73,33,18,37,45,I-C
+1346,10590,10590_25,Southern Rocky Mountain Pinyon-Juniper Woodland,Conifer,243,253,107,58,24,23,53,III-A
+1348,10740,10740_25_26,Chihuahuan Creosotebush Desert Scrub,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+1349,10750,10750_25,Chihuahuan Mixed Salt Desert Scrub,Shrubland,706,805,NA,376,53,47,NA,V-A
+1350,10770,10770_25_26,Chihuahuan Succulent Desert Scrub,Shrubland,160,NA,NA,160,100,NA,NA,IV-B
+1354,10910,10910_25,Sonoran Mid-Elevation Desert Scrub,Shrubland,374,NA,NA,374,100,NA,NA,V-A
+1355,10940,10940_25,Western Great Plains Sandhill Steppe,Shrubland,16,NA,NA,16,100,NA,NA,II-C
+1356,11002,11002_25,Chihuahuan Mixed Desert and Thorn Scrub-Shrubland,Shrubland,841,NA,NA,841,100,NA,NA,V-B
+1357,11003,11003_25,Chihuahuan Mixed Desert and Thorn Scrub-Steppe,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+1358,11010,11010_25,Madrean Oriental Chaparral,Shrubland,41,NA,28,17,40,NA,60,I-C
+1365,11210,11210_25,Apacherian-Chihuahuan Semi-Desert Grassland and Steppe,Grassland,NA,82,NA,82,NA,100,NA,III-A
+1366,11220,11220_25,Chihuahuan Gypsophilous Grassland and Steppe,Grassland,65,NA,NA,65,100,NA,NA,IV-A
+1368,11330,11330_25,Chihuahuan Sandy Plains Semi-Desert Grassland,Grassland,896,NA,NA,896,100,NA,NA,V-B
+1369,11350,11350_25,Inter-Mountain Basins Semi-Desert Grassland,Grassland,26,1011,NA,25,98,2,NA,II-C
+1371,11490,11490_25,Western Great Plains Shortgrass Prairie,Grassland,19,NA,NA,19,100,NA,NA,II-C
+1373,11550,11550_25,North American Warm Desert Riparian Systems,Riparian,225,NA,NA,225,100,NA,NA,V-A
+1374,11590,11590_25,Rocky Mountain Montane Riparian Systems,Riparian,272,NA,79,62,23,NA,77,III-A
+1375,15030,15030_25_27,Chihuahuan Loamy Plains Desert Grassland,Grassland,15,NA,NA,15,100,NA,NA,II-B
+1376,15040,15040_25_27,Chihuahuan-Sonoran Desert Bottomland and Swale Grassland,Grassland,10,NA,NA,10,100,NA,NA,II-B
+1378,10240,10240_26,Madrean Lower Montane Pine-Oak Forest and Woodland,Conifer,16,24,10,5,30,20,50,I-A
+1380,10540,10540_26,Southern Rocky Mountain Ponderosa Pine Woodland,Conifer,76,105,11,9,12,9,79,I-B
+1381,10590,10590_26,Southern Rocky Mountain Pinyon-Juniper Woodland,Conifer,29,32,35,11,36,33,31,I-B
+1383,10750,10750_26,Chihuahuan Mixed Salt Desert Scrub,Shrubland,610,NA,NA,610,100,NA,NA,V-B
+1384,10760,10760_26,Chihuahuan Stabilized Coppice Dune and Sand Flat Scrub,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+1386,10860,10860_26,Rocky Mountain Lower Montane-Foothill Shrubland,Shrubland,14,NA,NA,14,100,NA,NA,II-B
+1387,10940,10940_26,Western Great Plains Sandhill Steppe,Shrubland,22,NA,NA,22,100,NA,NA,II-C
+1388,10950,10950_26_35,Apacherian-Chihuahuan Mesquite Upland Scrub,Shrubland,26,NA,28,13,52,NA,48,I-B
+1389,11000,11000_26,Chihuahuan Mixed Desert and Thorn Scrub,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+1390,11010,11010_26,Madrean Oriental Chaparral,Shrubland,41,NA,28,16,40,NA,60,I-C
+1391,11110,11110_26,Western Great Plains Mesquite Woodland and Shrubland,Shrubland,15,NA,15,7,51,NA,49,I-B
+1392,11160,11160_26,Madrean Juniper Savanna,Conifer,24,27,46,10,41,37,22,I-B
+1393,11190,11190_26,Southern Rocky Mountain Juniper Woodland and Savanna,Conifer,29,32,34,11,36,33,31,I-B
+1394,11210,11210_26,Apacherian-Chihuahuan Semi-Desert Grassland and Steppe,Grassland,15,37,NA,11,71,29,NA,II-B
+1395,11220,11220_26,Chihuahuan Gypsophilous Grassland and Steppe,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+1396,11460,11460_26,Southern Rocky Mountain Montane-Subalpine Grassland,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+1397,11490,11490_26,Western Great Plains Shortgrass Prairie,Grassland,5,NA,NA,5,100,NA,NA,II-A
+1398,11550,11550_26_35,North American Warm Desert Riparian Systems,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+1400,13930,13930_26_34,Edwards Plateau Limestone Shrubland,Conifer,48,NA,59,26,55,NA,45,I-C
+1401,14951,14951_26_34,Western Great Plains Depressional Wetland Systems-Playa,Riparian,7,NA,NA,7,100,NA,NA,II-B
+1402,15030,15030_26,Chihuahuan Loamy Plains Desert Grassland,Grassland,15,NA,NA,15,100,NA,NA,II-B
+1403,15041,15041_26_34,Chihuahuan-Sonoran Desert Bottomland and Swale Grassland-Tobosa Grassland,Grassland,10,NA,NA,10,100,NA,NA,II-B
+1404,15042,15042_26_34,Chihuahuan-Sonoran Desert Bottomland and Swale Grassland-Alkali Sacaton,Grassland,14,NA,75,12,84,NA,16,II-B
+1405,10540,10540_33,Southern Rocky Mountain Ponderosa Pine Woodland,Conifer,511,159,30,24,5,15,80,I-C
+1406,10590,10590_27_33,Southern Rocky Mountain Pinyon-Juniper Woodland,Conifer,327,406,566,137,42,34,24,III-B
+1408,10810,10810_27_33,Inter-Mountain Basins Mixed Salt Desert Scrub,Shrubland,237,NA,NA,237,100,NA,NA,V-A
+1409,10860,10860_27_31_33,Rocky Mountain Lower Montane-Foothill Shrubland,Shrubland,46,NA,NA,46,100,NA,NA,IV-A
+1410,10940,10940_27_33,Western Great Plains Sandhill Steppe,Shrubland,23,NA,NA,23,100,NA,NA,II-C
+1411,11070,11070_27_33,Rocky Mountain Gambel Oak-Mixed Montane Shrubland,Shrubland,50,NA,NA,50,100,NA,NA,IV-A
+1412,11110,11110_27_33,Western Great Plains Mesquite Woodland and Shrubland,Shrubland,19,NA,24,11,56,NA,44,I-B
+1413,11170,11170_33,Southern Rocky Mountain Ponderosa Pine Savanna,Conifer,461,NA,20,19,4,NA,96,I-C
+1415,11320,11320_33,Central Mixedgrass Prairie,Grassland,15,NA,NA,15,100,NA,NA,II-B
+1416,11470,11470_27_33,Western Great Plains Foothill and Piedmont Grassland,Grassland,24,NA,NA,24,100,NA,NA,II-C
+1417,11490,11490_31_33,Western Great Plains Shortgrass Prairie,Grassland,21,NA,NA,21,100,NA,NA,II-C
+1418,11590,11590_27_33,Rocky Mountain Montane Riparian Systems,Riparian,273,NA,80,62,23,NA,77,III-A
+1419,11620,11620_27_33,Western Great Plains Floodplain Systems,Riparian,NA,27,NA,27,NA,100,NA,I-C
+1420,13410,13410,Northwestern Great Plains Canyon,Sparse,NA,NA,NA,NA,NA,NA,NA,NA
+1421,14950,14950_27_33,Western Great Plains Depressional Wetland Systems,Riparian,15,NA,NA,15,100,NA,NA,II-B
+1423,10940,10940_34,Western Great Plains Sandhill Steppe,Shrubland,42,NA,NA,42,100,NA,NA,IV-A
+1424,11110,11110_34,Western Great Plains Mesquite Woodland and Shrubland,Shrubland,15,NA,15,8,51,NA,49,I-B
+1425,11190,11190_34,Southern Rocky Mountain Juniper Woodland and Savanna,Conifer,87,344,88,39,45,11,44,III-A
+1426,11320,11320_32_34_35,Central Mixedgrass Prairie,Grassland,7,44,21,5,65,12,23,I-A
+1427,11480,11480_34_35,Western Great Plains Sand Prairie,Grassland,13,NA,NA,13,100,NA,NA,II-B
+1428,11490,11490_34_35,Western Great Plains Shortgrass Prairie,Grassland,14,NA,NA,14,100,NA,NA,II-B
+1429,11620,11620_34,Western Great Plains Floodplain Systems,Riparian,76,NA,NA,76,100,NA,NA,IV-A
+1432,14952,14952_34,Western Great Plains Depressional Wetland Systems-Saline,Riparian,15,NA,NA,15,100,NA,NA,II-B
+1435,13230,13230_32_36_37_44_45_98,West Gulf Coastal Plain Mesic Hardwood Forest,Hardwood,271,90,23,17,7,19,74,I-C
+1436,13390,13390_36_37_98,West Gulf Coastal Plain Chenier and Upper Texas Coastal Fringe Forest and Woodland,Hardwood,89,NA,24,19,21,NA,79,I-C
+1437,13480,13480_37_45_98,West Gulf Coastal Plain Upland Longleaf Pine Forest and Woodland,Conifer,630,783,4,4,1,1,98,I-A
+1438,13710,13710_32_36_37_45_98,West Gulf Coastal Plain Pine-Hardwood Forest,Hardwood-Conifer,121,64,5,4,4,7,89,I-A
+1439,13780,13780_37_44,West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland,Hardwood-Conifer,159,390,5,5,3,1,96,I-A
+1440,14220,14220_32_35_36_37,Southern Blackland Tallgrass Prairie,Grassland,3,171,35,2,91,2,7,II-A
+1441,14280,14280_37_44,West Gulf Coastal Plain Northern Calcareous Prairie,Grassland,1280,7,7,3,1,52,47,I-A
+1442,14290,14290_37_45,West Gulf Coastal Plain Southern Calcareous Prairie,Grassland,5,NA,28,4,86,NA,14,II-A
+1443,14340,14340_37_98,Texas-Louisiana Coastal Prairie,Grassland,5,98,NA,5,95,5,NA,II-A
+1444,14510,14510_37_98,West Gulf Coastal Plain Wet Longleaf Pine Savanna and Flatwoods,Riparian,144,177,2,2,2,1,97,I-A
+1445,14580,14580_37_44_45_98,West Gulf Coastal Plain Pine-Hardwood Flatwoods,Hardwood-Conifer,179,104,5,5,3,4,93,I-A
+1446,14730,14730_32_37_44,Gulf and Atlantic Coastal Plain Floodplain Systems,Riparian,393,257,49,37,10,15,75,III-A
+1447,14740,14740_32_37_44_45_98,Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,Riparian,431,129,50,33,8,26,66,I-C
+1448,14800,14800_36_37_44,Gulf and Atlantic Coastal Plain Swamp Systems,Riparian,1020,NA,685,410,40,NA,60,V-A
+1449,14900,14900_37_98,Gulf and Atlantic Coastal Plain Tidal Marsh Systems,Riparian,11,NA,NA,11,100,NA,NA,II-B
+1450,15060,15060_37_44,West Gulf Coastal Plain Nonriverine Wet Hardwood Flatwoods,Hardwood,308,130,38,27,9,21,70,I-C
+1451,15190,15190_32_35_36_37,East-Central Texas Plains Post Oak Savanna and Woodland,Hardwood,57,53,5,4,8,8,84,I-A
+1453,13430,13430_58_60,Atlantic Coastal Plain Mesic Hardwood Forest,Hardwood,479,382,43,36,8,9,83,III-A
+1457,13610,13610_58_60,Central Atlantic Coastal Plain Maritime Forest,Hardwood,357,119,113,50,14,42,44,III-A
+1459,14260,14260_58,Southern Atlantic Coastal Plain Dune and Maritime Grassland,Grassland,8,14,NA,5,63,37,NA,I-A
+1460,14490,14490_58_60,Central Atlantic Coastal Plain Wet Longleaf Pine Savanna and Flatwoods,Riparian,89,261,3,3,3,2,95,I-A
+1462,14520,14520_58_60,Atlantic Coastal Plain Peatland Pocosin and Canebrake,Riparian,14,16,NA,7,53,47,NA,I-B
+1463,14590,14590_58,Atlantic Coastal Plain Clay-Based Carolina Bay Wetland,Riparian,51,315,14,11,21,3,76,I-B
+1469,15010,15010_58_60,Central Atlantic Coastal Plain Nonriverine Swamp and Wet Hardwood Forest,Riparian,92,424,NA,76,82,18,NA,IV-A
+1472,10110,10110_27,Rocky Mountain Aspen Forest and Woodland,Hardwood,146,1719,839,116,79,7,14,IV-B
+1475,10510,10510_27,Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Conifer,279,57,33,19,7,34,59,I-C
+1476,10520,10520_27,Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Conifer,253,98,77,37,15,37,48,III-A
+1477,10541,10541_27,Southern Rocky Mountain Ponderosa Pine Woodland-South,Conifer,346,NA,11,11,3,NA,97,I-B
+1478,10542,10542_27,Southern Rocky Mountain Ponderosa Pine Woodland-North,Conifer,505,160,31,24,5,15,80,I-C
+1479,10550,10550_27,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Conifer,201,443,NA,139,69,31,NA,IV-B
+1487,10950,10950_27,Apacherian-Chihuahuan Mesquite Upland Scrub,Shrubland,26,NA,28,13,52,NA,48,I-B
+1490,11171,11171_27,Southern Rocky Mountain Ponderosa Pine Savanna-South,Conifer,521,NA,12,12,2,NA,98,I-B
+1491,11172,11172_27,Southern Rocky Mountain Ponderosa Pine Savanna-North,Conifer,460,NA,20,19,4,NA,96,I-C
+1492,11190,11190_27,Southern Rocky Mountain Juniper Woodland and Savanna,Conifer,495,228,33,27,5,12,83,I-C
+1493,11210,11210_27,Apacherian-Chihuahuan Semi-Desert Grassland and Steppe,Grassland,13,NA,NA,13,100,NA,NA,II-B
+1494,11220,11220_27,Chihuahuan Gypsophilous Grassland and Steppe,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+1495,11460,11460_27,Southern Rocky Mountain Montane-Subalpine Grassland,Grassland,23,NA,NA,23,100,NA,NA,II-C
+1497,11490,11490_27_38,Western Great Plains Shortgrass Prairie,Grassland,22,NA,NA,22,100,NA,NA,II-C
+1508,13840,13840_98,Mississippi Delta Maritime Forest,Hardwood-Conifer,129,NA,5,4,3,NA,97,I-A
+1512,14730,14730_45_46_47_98_99,Gulf and Atlantic Coastal Plain Floodplain Systems,Riparian,115,NA,100,53,46,NA,54,III-A
+1514,14800,14800_45_98,Gulf and Atlantic Coastal Plain Swamp Systems,Riparian,994,NA,681,404,41,NA,59,V-A
+1517,13220,13220_45,Southern Crowley`s Ridge Mesic Loess Slope Forest,Hardwood,483,107,88,44,9,41,50,III-A
+1519,13270,13270_45_46_47,East Gulf Coastal Plain Northern Loess Bluff Forest,Hardwood,394,356,152,84,21,24,55,III-A
+1520,13290,13290_45_46_99,East Gulf Coastal Plain Southern Loess Bluff Forest,Hardwood,218,189,69,41,19,22,59,III-A
+1523,13810,13810_45,Lower Mississippi River Dune Woodland and Forest,Hardwood,339,450,5,5,1,1,98,I-A
+1525,14320,14320_45,Lower Mississippi Alluvial Plain Grand Prairie,Grassland,NA,3,319,3,NA,99,1,I-A
+1530,15090,15090_45_47,Mississippi River Alluvial Plain Dry-Mesic Loess Slope Forest,Hardwood,479,106,88,44,10,41,49,III-A
+1531,15100,15100_45,Northern Crowley`s Ridge Sand Forest,Hardwood-Conifer,135,486,6,5,4,1,95,I-A
+1532,15130,15130_45,Lower Mississippi River Flatwoods,Hardwood,395,162,95,52,13,32,55,III-A
+1561,13022,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,2040,NA,NA,2040,100,NA,NA,V-B
+1563,13100,13100_44_50,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,123,49,76,24,20,48,32,I-C
+1564,13110,13110_50,North-Central Interior Dry Oak Forest and Woodland,Hardwood,104,98,19,14,14,14,72,I-B
+1565,13130,13130_47_50_51,North-Central Interior Beech-Maple Forest,Hardwood,1004,NA,836,456,45,NA,55,V-A
+1566,13140,13140_38_39_40_41_42_43_44_50,North-Central Interior Maple-Basswood Forest,Hardwood,1027,NA,857,467,46,NA,54,V-A
+1568,13651,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,250,1468,NA,213,85,15,NA,V-A
+1569,13660,13660_50,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,483,1018,291,154,32,15,53,III-B
+1570,13940,13940_50_51,North-Central Interior Oak Savanna,Hardwood,66,184,5,5,7,3,90,I-A
+1571,13950,13950_50,North-Central Oak Barrens,Hardwood,53,143,6,5,9,4,87,I-A
+1572,14071,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,109,75,5,4,4,6,90,I-A
+1573,14072,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,25,46,18,8,34,18,48,I-B
+1574,14090,14090_50_64,Great Lakes Alvar,Conifer,439,3247,NA,387,88,12,NA,V-A
+1575,14120,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,4,NA,87,3,96,NA,4,II-A
+1576,14210,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,Grassland,4,NA,NA,4,100,NA,NA,II-A
+1577,14440,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,NA,581,312,203,NA,35,65,V-A
+1578,14660,14660_50_51,Great Lakes Wooded Dune and Swale,Riparian,3715,536,NA,468,13,87,NA,V-A
+1579,14710,14710_41_50,Central Interior and Appalachian Floodplain Systems,Riparian,NA,432,67,58,NA,14,86,III-A
+1580,14750,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,NA,435,68,59,NA,14,86,III-A
+1581,14770,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,716,NA,123,105,15,NA,85,III-B
+1582,14790,14790_41_42_47_48_50_51_53,Central Interior and Appalachian Swamp Systems,Riparian,987,NA,NA,987,100,NA,NA,V-B
+1583,14810,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,989,NA,NA,989,100,NA,NA,V-B
+1584,14920,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+1585,14930,14930_41_42_44_50,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,17,NA,NA,17,100,NA,NA,II-C
+1586,14940,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,18,NA,NA,18,100,NA,NA,II-C
+1587,15170,15170_42_49_50,Paleozoic Plateau Bluff and Talus,Hardwood-Conifer,15,126,102,12,79,9,12,II-B
+1590,13100,13100_41_62,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,74,56,23,13,18,24,58,I-B
+1592,13310,13310_39_40_41,Eastern Great Plains Tallgrass Aspen Parkland,Hardwood,16,NA,8,6,35,NA,65,I-B
+1593,13440,13440_41,Boreal Jack Pine-Black Spruce Forest,Conifer,82,NA,NA,82,100,NA,NA,IV-A
+1597,13652,13652_41,Boreal White Spruce-Fir-Hardwood Forest-Coastal,Conifer,939,1147,NA,516,55,45,NA,V-B
+1598,13653,13653_41,Boreal White Spruce-Fir-Hardwood Forest-Aspen-Birch,Conifer,112,243,NA,76,68,32,NA,III-A
+1599,13940,13940_39_40_41,North-Central Interior Oak Savanna,Hardwood,550,165,5,5,1,3,96,I-A
+1600,13950,13950_41_42_43_49_52,North-Central Oak Barrens,Hardwood,341,246,5,5,1,2,97,I-A
+1604,14200,14200_41,Northern Tallgrass Prairie,Grassland,4,NA,NA,4,100,NA,NA,II-A
+1616,13023,13023_51,Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,Hardwood,1016,NA,NA,1016,100,NA,NA,V-B
+1617,13100,13100_51,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,161,160,11,9,6,6,88,I-B
+1618,13110,13110_51,North-Central Interior Dry Oak Forest and Woodland,Hardwood,137,111,11,9,7,8,85,I-B
+1620,13441,13441_51,Boreal Jack Pine-Black Spruce Forest-Pine Barrens,Conifer,34,64,7,5,15,8,77,I-A
+1621,13442,13442_51,Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,Conifer,112,NA,NA,112,100,NA,NA,IV-B
+1622,13620,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,309,447,65,48,16,11,73,III-A
+1623,13651,13651_51,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,490,524,NA,253,52,48,NA,V-A
+1624,13652,13652_51,Boreal White Spruce-Fir-Hardwood Forest-Coastal,Conifer,872,1306,NA,523,60,40,NA,V-B
+1625,13660,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,482,998,289,153,32,15,53,III-B
+1627,13950,13950_51,North-Central Oak Barrens,Hardwood,49,180,6,5,10,3,87,I-A
+1630,14110,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,24,NA,NA,24,100,NA,NA,II-C
+1635,14710,14710_51_62,Central Interior and Appalachian Floodplain Systems,Riparian,NA,429,67,58,NA,14,86,III-A
+1642,10130,10130_31_38_39_40,Western Great Plains Dry Bur Oak Forest and Woodland,Hardwood,300,44,30,17,6,38,56,I-C
+1643,11410,11410_40,Northwestern Great Plains Mixedgrass Prairie,Grassland,8,NA,NA,8,100,NA,NA,II-B
+1644,11500,11500_31_39_40,Western Great Plains Tallgrass Prairie,Grassland,5,NA,254,5,98,NA,2,II-A
+1645,11620,11620_31_39_40,Western Great Plains Floodplain Systems,Riparian,250,94,196,51,20,54,26,III-A
+1646,13010,13010_40,Boreal Aspen-Birch Forest,Conifer,82,NA,NA,82,100,NA,NA,IV-A
+1647,13020,13020_40,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,2109,NA,NA,2109,100,NA,NA,V-B
+1651,13850,13850_31_39_40_42,Western Great Plains Wooded Draw and Ravine,Shrubland,91,65,230,32,36,50,14,I-C
+1654,14200,14200_39_40_42,Northern Tallgrass Prairie,Grassland,6,NA,NA,6,100,NA,NA,II-B
+1655,14690,14690_31_39_40_43,Eastern Great Plains Floodplain Systems,Riparian,517,77,176,48,9,63,28,III-A
+1657,14820,14820_39_40,Great Plains Prairie Pothole,Grassland,50,NA,NA,50,100,NA,NA,IV-A
+1658,14950,14950_31_39_40,Western Great Plains Depressional Wetland Systems,Riparian,20,NA,NA,20,100,NA,NA,II-C
+1660,11410,11410_39,Northwestern Great Plains Mixedgrass Prairie,Grassland,8,NA,NA,8,100,NA,NA,II-B
+1663,13100,13100_39,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,112,43,47,19,17,43,40,I-C
+1664,13110,13110_39,North-Central Interior Dry Oak Forest and Woodland,Hardwood,77,85,19,13,17,15,68,I-B
+1679,10940,10940_31_38,Western Great Plains Sandhill Steppe,Shrubland,23,NA,NA,23,100,NA,NA,II-C
+1681,11320,11320_31_38,Central Mixedgrass Prairie,Grassland,8,NA,161,8,95,NA,5,II-B
+1682,11410,11410_31,Northwestern Great Plains Mixedgrass Prairie,Grassland,8,NA,NA,8,100,NA,NA,II-B
+1683,11480,11480_31_38,Western Great Plains Sand Prairie,Grassland,15,12,12,4,28,36,36,I-A
+1687,11790,11790_31,Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna,Conifer,418,100,17,14,3,14,83,I-B
+1692,10940,10940_32_35,Western Great Plains Sandhill Steppe,Shrubland,52,NA,NA,52,100,NA,NA,IV-A
+1693,11110,11110_32_35,Western Great Plains Mesquite Woodland and Shrubland,Shrubland,13,39,24,7,54,18,28,I-B
+1695,11480,11480_32,Western Great Plains Sand Prairie,Grassland,13,201,205,12,88,6,6,II-B
+1696,11620,11620_32_35,Western Great Plains Floodplain Systems,Riparian,180,NA,14,13,7,NA,93,I-B
+1697,13040,13040_32_43_44_49,Ozark-Ouachita Dry-Mesic Oak Forest,Hardwood,188,66,15,11,6,17,77,I-B
+1698,13080,13080_32_35,Crosstimbers Oak Forest and Woodland,Hardwood,158,93,5,5,3,5,92,I-A
+1700,13340,13340_32_43_44,Ozark-Ouachita Mesic Hardwood Forest,Hardwood,316,110,25,19,6,18,76,I-C
+1701,13640,13640_32_44_49,Ozark-Ouachita Dry Oak Woodland,Hardwood,38,89,6,5,13,5,82,I-A
+1702,13670,13670_32_44,Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland,Conifer,347,92,5,5,1,5,94,I-A
+1704,13830,13830_32_35_36,Edwards Plateau Limestone Savanna and Woodland,Hardwood,15,24,14,6,38,23,39,I-B
+1705,13930,13930_32_35,Edwards Plateau Limestone Shrubland,Conifer,69,44,NA,27,39,61,NA,I-C
+1707,14230,14230_32_35,Southeastern Great Plains Tallgrass Prairie,Grassland,2,82,489,2,97,2,1,II-A
+1708,14710,14710_32_35,Central Interior and Appalachian Floodplain Systems,Riparian,182,NA,30,26,14,NA,86,I-C
+1709,14720,14720_32_35,Central Interior and Appalachian Riparian Systems,Riparian,185,NA,30,26,14,NA,86,I-C
+1712,15040,15040_32_35,Chihuahuan-Sonoran Desert Bottomland and Swale Grassland,Grassland,10,NA,NA,10,100,NA,NA,II-B
+1714,15230,15230_32_35,Edwards Plateau Dry-Mesic Slope Forest and Woodland,Hardwood,103,133,30,20,19,15,66,I-C
+1724,13580,13580_35_36,East-Central Texas Plains Southern Pine Forest and Woodland,Conifer,64,91,7,6,10,7,83,I-B
+1726,13900,13900_35_36,Tamaulipan Mixed Deciduous Thornscrub,Shrubland,15,NA,NA,15,100,NA,NA,II-B
+1727,13920,13920_35,Tamaulipan Calcareous Thornscrub,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+1729,14100,14100_35,Llano Uplift Acidic Forest-Woodland-Glade,Hardwood,17,26,10,5,30,19,51,I-A
+1734,14950,14950_35,Western Great Plains Depressional Wetland Systems,Riparian,7,NA,NA,7,100,NA,NA,II-B
+1738,15240,15240_35,Edwards Plateau Mesic Canyon,Hardwood,138,NA,108,61,44,NA,56,III-A
+1739,15250,15250_35,Edwards Plateau Riparian,Riparian,143,NA,30,25,18,NA,82,I-C
+1741,13380,13380_36,Central and South Texas Coastal Fringe Forest and Woodland,Hardwood,440,100,NA,81,18,82,NA,III-A
+1747,13920,13920_36,Tamaulipan Calcareous Thornscrub,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+1749,14340,14340_36,Texas-Louisiana Coastal Prairie,Grassland,3,NA,NA,3,100,NA,NA,II-A
+1750,14370,14370_36,Central and Upper Texas Coast Dune and Coastal Grassland,Grassland,3,NA,NA,3,100,NA,NA,II-A
+1751,14380,14380_36,Tamaulipan Savanna Grassland,Grassland,6,103,NA,5,95,5,NA,II-A
+1752,14390,14390_36,South Texas Lomas,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+1753,14400,14400_36,Tamaulipan Clay Grassland,Grassland,3,260,NA,3,99,1,NA,II-A
+1754,14420,14420_36,South Texas Sand Sheet Grassland,Grassland,4,NA,NA,4,100,NA,NA,II-A
+1755,14670,14670_36,Tamaulipan Floodplain,Riparian,57,NA,41,24,42,NA,58,I-C
+1756,14730,14730_36,Gulf and Atlantic Coastal Plain Floodplain Systems,Riparian,390,254,50,38,10,15,75,III-A
+1757,14740,14740_36,Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,Riparian,186,172,10,9,5,5,90,I-B
+1758,14760,14760_36,Tamaulipan Riparian Systems,Riparian,NA,NA,31,31,NA,NA,100,I-C
+1760,14860,14860_36,Texas-Louisiana Saline Coastal Prairie,Grassland,4,NA,NA,4,100,NA,NA,II-A
+1761,14900,14900_36,Gulf and Atlantic Coastal Plain Tidal Marsh Systems,Grassland,27,NA,NA,27,100,NA,NA,II-C
+1762,14950,14950_36,Western Great Plains Depressional Wetland Systems,Riparian,3,NA,NA,3,100,NA,NA,II-A
+1764,13070,13070_46_47_48,East Gulf Coastal Plain Northern Dry Upland Hardwood Forest,Hardwood,388,89,9,8,2,9,89,I-B
+1765,13250,13250_46_47_48,East Gulf Coastal Plain Northern Mesic Hardwood Slope Forest,Hardwood,404,159,52,36,9,22,69,III-A
+1767,13280,13280_46_99,East Gulf Coastal Plain Limestone Forest,Hardwood,199,98,8,7,4,7,89,I-B
+1771,13530,13530_46_48_53_54_57_59_60_61,Southern Appalachian Low-Elevation Pine Forest,Conifer,153,66,9,7,5,11,84,I-B
+1773,13680,13680_46_48_54_57_59_60_61,Southern Piedmont Dry Oak(-Pine) Forest,Hardwood-Conifer,325,235,5,5,2,2,96,I-A
+1774,13720,13720_46_99,East Gulf Coastal Plain Interior Shortleaf Pine-Oak Forest,Hardwood-Conifer,189,87,8,7,4,8,88,I-B
+1775,14300,14300_46,Southern Coastal Plain Blackland Prairie and Woodland,Grassland,50,3,96,3,5,92,3,I-A
+1776,14550,14550_46_99,East Gulf Coastal Plain Southern Loblolly-Hardwood Flatwoods,Riparian,78,NA,8,7,9,NA,91,I-B
+1779,14720,14720_44_46_47_48,Central Interior and Appalachian Riparian Systems,Riparian,990,NA,200,167,17,NA,83,III-B
+1791,14350,14350_99,East Gulf Coastal Plain Dune and Coastal Grassland,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+1803,14980,14980,Gulf and Atlantic Coastal Plain Sparsely Vegetated Systems,Sparse,NA,NA,NA,NA,NA,NA,NA,NA
+1804,13150,13150_48_53_57_59_61,Southern Appalachian Oak Forest,Hardwood,604,138,16,14,2,10,88,I-B
+1805,13160,13160_54_57_59_61,Southern Piedmont Mesic Forest,Hardwood,510,348,52,42,8,12,80,III-A
+1806,13180,13180_57_59_61,Southern and Central Appalachian Cove Forest,Hardwood,994,498,100,77,8,15,77,III-A
+1807,13420,13420_59,Piedmont Hardpan Woodland and Forest,Hardwood,308,333,5,5,2,1,97,I-A
+1808,13510,13510_48_54_59,Southeastern Interior Longleaf Pine Woodland,Conifer,552,299,3,3,1,1,98,I-A
+1809,13520,13520_53_54_57_59_60_61,Southern Appalachian Montane Pine Forest and Woodland,Conifer,88,101,5,5,6,5,89,I-A
+1812,14710,14710_47_48_53_54_57_59_60_61_63,Central Interior and Appalachian Floodplain Systems,Riparian,613,392,121,80,13,21,66,III-A
+1813,14720,14720_53_54_57_59_60,Central Interior and Appalachian Riparian Systems,Riparian,997,NA,202,168,17,NA,83,III-B
+1814,13090,13090_53_57,Southern Appalachian Northern Hardwood Forest,Hardwood,681,665,341,169,25,25,50,III-B
+1817,13170,13170_57_61,Allegheny-Cumberland Dry Oak Forest and Woodland,Hardwood,123,59,15,11,9,18,73,I-B
+1819,13200,13200_48_57_61,Central and Southern Appalachian Montane Oak Forest,Hardwood,147,95,33,21,14,22,64,I-C
+1820,13210,13210_47_48_53_57,South-Central Interior Mesophytic Forest,Hardwood,869,534,86,68,8,13,79,III-A
+1821,13500,13500_57,Central and Southern Appalachian Spruce-Fir Forest,Conifer,1000,1155,NA,536,54,46,NA,V-B
+1825,13760,13760_48_53_57_61,Southern Ridge and Valley/Cumberland Dry Calcareous Forest,Hardwood,187,109,8,7,4,6,90,I-B
+1826,14140,14140_57,Southern Appalachian Grass and Shrub Bald,Grassland,280,341,NA,154,55,45,NA,III-B
+1840,13030,13030_60,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,7,17,15,4,53,22,25,I-A
+1841,13160,13160_60,Southern Piedmont Mesic Forest,Hardwood,499,355,52,41,8,12,80,III-A
+1842,13240,13240_60_65_66,Northern Atlantic Coastal Plain Hardwood Forest,Hardwood,48,44,4,4,8,8,84,I-A
+1848,13550,13550_60_65,Northern Atlantic Coastal Plain Pitch Pine Barrens,Conifer,77,31,12,8,10,25,65,I-B
+1851,13690,13690_60_61_63_64_65_66,Central Appalachian Dry Oak-Pine Forest,Hardwood-Conifer,182,463,15,14,8,3,89,I-B
+1852,13700,13700_60_63_64_65_66,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,1010,1122,NA,531,53,47,NA,V-B
+1853,13750,13750_60,Eastern Serpentine Woodland,Hardwood-Conifer,87,56,5,5,6,8,86,I-A
+1854,13770,13770_60_61_63_64_65_66,Central Appalachian Pine-Oak Rocky Woodland,Hardwood-Conifer,412,384,4645,190,46,50,4,III-B
+1855,13790,13790_60_65,Northern Atlantic Coastal Plain Maritime Forest,Hardwood-Conifer,74,160,9,7,10,5,85,I-B
+1856,14000,14000_60_61,Central Appalachian Alkaline Glade and Woodland,Savanna,5,19,1583,4,78,21,1,II-A
+1857,14360,14360_60,Northern Atlantic Coastal Plain Dune and Swale,Grassland,8,14,NA,5,63,37,NA,I-A
+1860,14680,14680_60,Atlantic Coastal Plain Streamhead Seepage Swamp-Pocosin-Baygall,Riparian,98,28,14,8,8,30,62,I-B
+1865,14790,14790_60_61_63_64_65_66,Central Interior and Appalachian Swamp Systems,Riparian,1011,NA,1353,578,57,NA,43,V-B
+1867,14900,14900_60,Gulf and Atlantic Coastal Plain Tidal Marsh Systems,Riparian,5,294,NA,5,98,2,NA,II-A
+1870,13030,13030_61_63_64_65_66,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,39,24,9,6,14,23,63,I-B
+1876,13210,13210_61_63,South-Central Interior Mesophytic Forest,Hardwood,847,573,102,78,9,14,77,III-A
+1877,13400,13400_61,Appalachian Shale Barrens,Hardwood,NA,1025,NA,1025,NA,100,NA,V-B
+1878,13500,13500_61,Central and Southern Appalachian Spruce-Fir Forest,Conifer,834,12028,NA,780,93,7,NA,V-B
+1883,13700,13700_53_61_62,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,1036,1083,NA,529,51,49,NA,V-B
+1888,14720,14720_61_62_63,Central Interior and Appalachian Riparian Systems,Riparian,1001,NA,200,166,17,NA,83,III-B
+1890,13020,13020_63,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,2021,NA,NA,2021,100,NA,NA,V-B
+1897,13730,13730_63_64,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Hardwood-Conifer,1053,NA,NA,1053,100,NA,NA,V-B
+1899,14000,14000_63,Central Appalachian Alkaline Glade and Woodland,Savanna,5,19,1421,4,78,21,1,II-A
+1903,14770,14770_63_64_65_66,Boreal Acidic Peatland Systems,Riparian,935,NA,170,144,15,NA,85,III-B
+1907,14940,14940_63_65_66,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,792,NA,NA,792,100,NA,NA,V-B
+1908,15180,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,993,NA,NA,993,100,NA,NA,V-B
+1909,13030,13030_62,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,39,52,8,6,15,11,74,I-B
+1911,13130,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,1026,NA,852,465,45,NA,55,V-A
+1912,13170,13170_62,Allegheny-Cumberland Dry Oak Forest and Woodland,Hardwood,37,117,11,8,21,7,72,I-B
+1913,13210,13210_62,South-Central Interior Mesophytic Forest,Hardwood,960,798,341,191,20,24,56,III-B
+1917,14790,14790_52_62,Central Interior and Appalachian Swamp Systems,Riparian,989,NA,NA,989,100,NA,NA,V-B
+1918,14930,14930_52_62,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,17,NA,NA,17,100,NA,NA,II-C
+1920,13020,13020_65_66,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,983,NA,NA,983,100,NA,NA,V-B
+1928,13730,13730_65_66,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Hardwood-Conifer,1127,NA,NA,1127,100,NA,NA,V-B
+1929,13740,13740_64_65_66,Acadian-Appalachian Montane Spruce-Fir Forest,Hardwood-Conifer,580,NA,NA,580,100,NA,NA,V-B
+1932,14360,14360_65_66,Northern Atlantic Coastal Plain Dune and Swale,Grassland,10,17,NA,6,62,38,NA,I-B
+1933,14710,14710_64_65,Central Interior and Appalachian Floodplain Systems,Riparian,603,392,120,80,14,20,66,III-A
+1934,14720,14720_64_65_66,Central Interior and Appalachian Riparian Systems,Riparian,984,NA,198,165,17,NA,83,III-B
+1939,14900,14900_65_66,Gulf and Atlantic Coastal Plain Tidal Marsh Systems,Riparian,508,NA,NA,508,100,NA,NA,V-B
+1942,15260,15260_64_65_66,Laurentian-Acadian Swamp Systems,Riparian,1011,NA,NA,1011,100,NA,NA,V-B
+1943,13020,13020_64,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,2108,NA,NA,2108,100,NA,NA,V-B
+1945,13540,13540_64_66,Northeastern Interior Pine Barrens,Conifer,77,31,12,8,10,24,66,I-B
+1953,13890,13890_64_66,Acadian-Appalachian Subalpine Woodland and Heath-Krummholz,Shrubland,3351,1795,4331,916,27,51,22,V-B
+1954,14000,14000_64,Central Appalachian Alkaline Glade and Woodland,Savanna,5,19,1604,4,78,21,1,II-A
+1962,14940,14940_64,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,794,NA,NA,794,100,NA,NA,V-B
+1965,13100,13100_52,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,75,47,23,13,17,27,56,I-B
+1966,13110,13110_52,North-Central Interior Dry Oak Forest and Woodland,Hardwood,149,151,11,9,6,6,88,I-B
+1968,13940,13940_52,North-Central Interior Oak Savanna,Hardwood,552,187,5,5,1,3,96,I-A
+1971,14120,14120_52,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,4,NA,89,3,96,NA,4,II-A
+1972,14210,14210_49_52,Central Tallgrass Prairie,Grassland,4,NA,NA,4,100,NA,NA,II-A
+1973,14710,14710_49_52,Central Interior and Appalachian Floodplain Systems,Riparian,NA,426,68,59,NA,14,86,III-A
+1980,13440,13440_66,Boreal Jack Pine-Black Spruce Forest,Conifer,214,NA,NA,214,100,NA,NA,V-A
+1989,13860,13860_66,Acadian-Appalachian Alpine Tundra,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2000,13050,13050_53,Southern Interior Low Plateau Dry-Mesic Oak Forest,Hardwood,2,1007,15,2,88,1,11,II-A
+2003,13170,13170_48_53,Allegheny-Cumberland Dry Oak Forest and Woodland,Hardwood,91,1199,6,6,6,1,93,I-B
+2004,13180,13180_48_53,Southern and Central Appalachian Cove Forest,Hardwood,555,727,88,69,12,10,78,III-A
+2008,13630,13630_47_53,Central Interior Highlands Dry Acidic Glade and Barrens,Hardwood,29,16,7,4,15,27,58,I-A
+2011,14010,14010_43_44_47_48_53,Central Interior Highlands Calcareous Glade and Barrens,Grassland,19,16,5,3,18,21,61,I-A
+2016,13050,13050_49,Southern Interior Low Plateau Dry-Mesic Oak Forest,Hardwood,61,117,9,7,12,7,81,I-B
+2017,13100,13100_49,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,75,47,23,13,17,27,56,I-B
+2018,13110,13110_49,North-Central Interior Dry Oak Forest and Woodland,Hardwood,149,149,11,9,7,6,87,I-B
+2020,13140,13140_49,North-Central Interior Maple-Basswood Forest,Hardwood,1030,NA,845,464,45,NA,55,V-A
+2021,13210,13210_49,South-Central Interior Mesophytic Forest,Hardwood,708,809,548,223,32,28,40,V-A
+2022,13260,13260_49,South-Central Interior/Upper Coastal Plain Flatwoods,Hardwood,128,33,17,10,8,31,61,I-B
+2024,13940,13940_44_49,North-Central Interior Oak Savanna,Hardwood,550,189,5,5,1,3,96,I-A
+2026,14010,14010_49,Central Interior Highlands Calcareous Glade and Barrens,Grassland,19,16,5,3,18,21,61,I-A
+2028,14120,14120_49,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,4,NA,87,3,96,NA,4,II-A
+2030,14570,14570_49,South-Central Interior/Upper Coastal Plain Wet Flatwoods,Hardwood,93,120,13,11,11,9,80,I-B
+2031,14660,14660_49,Great Lakes Wooded Dune and Swale,Riparian,2663,533,NA,444,17,83,NA,V-A
+2032,14690,14690_38_42_49,Eastern Great Plains Floodplain Systems,Riparian,510,76,177,48,10,63,27,III-A
+2034,14720,14720_49,Central Interior and Appalachian Riparian Systems,Riparian,996,NA,198,165,17,NA,83,III-B
+2038,13080,13080_38_43_44,Crosstimbers Oak Forest and Woodland,Hardwood,157,93,5,5,3,5,92,I-A
+2039,13100,13100_38_42_43,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,126,50,76,24,19,49,32,I-C
+2040,13110,13110_42_43,North-Central Interior Dry Oak Forest and Woodland,Hardwood,141,111,11,9,7,8,85,I-B
+2047,14230,14230_43_44,Southeastern Great Plains Tallgrass Prairie,Grassland,2,80,503,2,97,2,1,II-A
+2049,14710,14710_42_43,Central Interior and Appalachian Floodplain Systems,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2050,14880,14880_38_42_43,Eastern Great Plains Wet Meadow-Prairie-Marsh,Grassland,3,NA,NA,3,100,NA,NA,II-A
+2057,11500,11500_38,Western Great Plains Tallgrass Prairie,Grassland,5,NA,337,5,98,NA,2,II-A
+2058,11620,11620_38,Western Great Plains Floodplain Systems,Riparian,242,94,201,51,21,54,25,III-A
+2063,14230,14230_38,Southeastern Great Plains Tallgrass Prairie,Grassland,3,81,487,2,96,3,1,II-A
+2066,14950,14950_38,Western Great Plains Depressional Wetland Systems,Riparian,20,NA,NA,20,100,NA,NA,II-C
+2067,13050,13050_47_48,Southern Interior Low Plateau Dry-Mesic Oak Forest,Hardwood,6,199,21,4,77,3,20,II-A
+2068,13060,13060_47_48,East Gulf Coastal Plain Northern Loess Plain Oak-Hickory Upland,Hardwood,386,87,9,8,2,10,88,I-B
+2070,13100,13100_47,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,162,160,11,9,6,6,88,I-B
+2074,13260,13260_47,South-Central Interior/Upper Coastal Plain Flatwoods,Hardwood,187,182,5,5,3,3,94,I-A
+2076,13530,13530_47,Southern Appalachian Low-Elevation Pine Forest,Conifer,100,1204,2,2,2,1,97,I-A
+2080,14130,14130_47,Bluegrass Savanna and Woodland,Hardwood,81,132,62,28,34,21,45,I-C
+2081,14180,14180_47,Pennyroyal Karst Plain Prairie and Barrens,Grassland,2,75,22,1,91,2,7,II-A
+2082,14270,14270_47,East Gulf Coastal Plain Jackson Plain Prairie and Barrens,Grassland,18,34,12,6,33,17,50,I-B
+2083,14570,14570_47_48,South-Central Interior/Upper Coastal Plain Wet Flatwoods,Hardwood,189,118,9,8,4,7,89,I-B
+2089,14800,14800_47,Gulf and Atlantic Coastal Plain Swamp Systems,Riparian,NA,NA,219,219,NA,NA,100,V-A
+2107,13970,13970_48,Nashville Basin Limestone Glade and Woodland,Savanna,40,13,5,3,9,27,64,I-A
+2109,14080,14080_48,Alabama Ketona Glade and Woodland,Hardwood,19,16,5,3,18,21,61,I-A
+2110,14160,14160_48,Western Highland Rim Prairie and Barrens,Grassland,40,26,19,9,21,33,46,I-B
+2111,14170,14170_48,Eastern Highland Rim Prairie and Barrens,Grassland,18,34,12,6,33,17,50,I-B
+2121,13940,13940_42,North-Central Interior Oak Savanna,Hardwood,530,167,5,5,1,3,96,I-A
+2135,13110,13110_44,North-Central Interior Dry Oak Forest and Woodland,Hardwood,107,99,19,14,13,14,73,I-B
+2136,13120,13120_44,Ouachita Montane Oak Forest,Hardwood,38,89,6,5,13,6,81,I-A
+2142,13710,13710_44,West Gulf Coastal Plain Pine-Hardwood Forest,Hardwood-Conifer,121,52,5,4,4,9,87,I-A
+2146,14151,14151_44,Arkansas Valley Prairie and Woodland-Prairie,Grassland,2,344,12,2,82,1,17,II-A
+2147,14152,14152_44,Arkansas Valley Prairie and Woodland-Woodland,Grassland,96,14,2,2,3,14,83,I-A
+2152,14710,14710_44,Central Interior and Appalachian Floodplain Systems,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2153,14712,14712_44,Central Interior and Appalachian Floodplain Systems-Large Floodplains,Riparian,142,NA,100,59,41,NA,59,III-A
+2160,15070,15070_44,Ozark-Ouachita Shortleaf Pine-Bluestem Woodland,Hardwood-Conifer,100,1223,2,2,2,1,97,I-A
+2161,16380,16380_67,Alaska Arctic Mesic Alder Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2162,16390,16390_67,Alaska Arctic Mesic-Wet Willow Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2163,16821,16821_67,Alaska Arctic Scrub Birch-Ericaceous Shrubland-Infrequent Fire,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2164,16830,16830_67,Alaska Arctic Mesic Sedge-Willow Tundra,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2165,16840,16840_67,Alaska Arctic Mesic Sedge-Dryas Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2166,16850,16850_67,Alaska Arctic Acidic Sparse Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2167,16860,16860_67,Alaska Arctic Non-Acidic Sparse Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2168,16870,16870_67,Alaska Arctic Lichen Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2169,16880,16880_67,Alaska Arctic Acidic Dryas Dwarf-Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2170,16890,16890_67,Alaska Arctic Non-Acidic Dryas Dwarf-Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2171,16902,16902_67,Alaska Arctic Dwarf-Shrubland - Infrequent Fire,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2172,16942,16942_67,Alaska Arctic Tussock Tundra-Infrequent Fire,Grassland,1023,NA,NA,1023,100,NA,NA,V-B
+2173,16970,16970_67,Alaska Arctic Pendantgrass Freshwater Marsh,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2174,16980,16980_67,Alaska Arctic Wet Sedge Meadow,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2175,16990,16990_67,Alaska Arctic Mesic Herbaceous Meadow,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2176,17010,17010_67,Alaska Arctic Coastal Sedge-Dwarf-Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2177,17020,17020_67,Alaska Arctic Wet Sedge-Sphagnum Peatland,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2178,17030,17030_67,Alaska Arctic Dwarf-Shrub-Sphagnum Peatland,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2179,17050,17050_67,Alaska Arctic Sedge Freshwater Marsh,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2180,17060,17060_67,Alaska Arctic Polygonal Ground Wet Sedge Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2181,17080,17080_67,Alaska Arctic Polygonal Ground Shrub-Tussock Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2182,17090,17090_67,Alaska Arctic Marine Beach and Beach Meadow,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2183,17110,17110_67,Alaska Arctic Tidal Marsh,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2185,17150,17150_67,Alaska Arctic Floodplain,Hardwood,NA,NA,NA,NA,NA,NA,NA,NA
+2186,16011,16011_68,Western North American Boreal Treeline White Spruce Woodland-Boreal,Conifer,150,333,NA,104,69,31,NA,IV-B
+2187,16030,16030_68,Western North American Boreal White Spruce-Hardwood Forest,Conifer-Hardwood,150,364,NA,106,71,29,NA,IV-B
+2188,16041,16041_68,Western North American Boreal Mesic Black Spruce Forest-Boreal,Conifer,112,206,NA,73,65,35,NA,III-A
+2189,16050,16050_68,Western North American Boreal Mesic Birch-Aspen Forest,Hardwood,191,503,NA,138,73,27,NA,IV-B
+2190,16070,16070_68,Western North American Boreal Subalpine Balsam Poplar-Aspen Woodland,Hardwood,NA,NA,NA,NA,NA,NA,NA,NA
+2191,16141,16141_68,Western North American Boreal Montane Floodplain Forest and Shrubland-Boreal,Conifer-Hardwood,5000,312,NA,294,6,94,NA,V-A
+2192,16150,16150_68,Western North American Boreal Lowland Large River Floodplain Forest and Shrubland,Conifer-Hardwood,9999,303,NA,294,3,97,NA,V-A
+2193,16170,16170_68,Western North American Boreal Shrub and Herbaceous Floodplain Wetland,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2194,16211,16211_68,Western North American Boreal Black Spruce Dwarf-tree Peatland-Boreal Complex,Peatland Forest,134,728,NA,113,84,16,NA,IV-B
+2195,16220,16220_68,Western North American Boreal Black Spruce Wet-Mesic Slope Woodland,Peatland Forest,164,141,NA,76,46,54,NA,III-A
+2196,16300,16300_68,Western North American Boreal Wet Black Spruce-Tussock Woodland,Peatland Forest,152,667,NA,124,81,19,NA,IV-B
+2197,16380,16380_68,Alaska Arctic Mesic Alder Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2198,16390,16390_68,Alaska Arctic Mesic-Wet Willow Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2199,16821,16821_68,Alaska Arctic Scrub Birch-Ericaceous Shrubland - Infrequent Fire,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2200,16822,16822_68,Alaska Arctic Scrub Birch-Ericaceous Shrubland-Frequent Fire,Shrubland,252,NA,NA,252,100,NA,NA,V-A
+2201,16830,16830_68,Alaska Arctic Mesic Sedge-Willow Tundra,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2202,16840,16840_68,Alaska Arctic Mesic Sedge-Dryas Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2203,16850,16850_68,Alaska Arctic Acidic Sparse Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2204,16860,16860_68,Alaska Arctic Non-Acidic Sparse Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2205,16870,16870_68,Alaska Arctic Lichen Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2206,16880,16880_68,Alaska Arctic Acidic Dryas Dwarf-Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2207,16890,16890_68,Alaska Arctic Non-Acidic Dryas Dwarf-Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2208,16901,16901_68,Alaska Arctic Dwarf-Shrubland-Frequent Fire,Shrubland,249,NA,NA,249,100,NA,NA,V-A
+2209,16902,16902_68,Alaska Arctic Dwarf-Shrubland - Infrequent Fire,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2210,16941,16941_68,Alaska Arctic Tussock Tundra-Frequent Fire,Grassland,255,NA,NA,255,100,NA,NA,V-A
+2211,16942,16942_68,Alaska Arctic Tussock Tundra - Infrequent Fire,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2212,16970,16970_68,Alaska Arctic Pendantgrass Freshwater Marsh,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2213,16980,16980_68,Alaska Arctic Wet Sedge Meadow,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2214,16990,16990_68,Alaska Arctic Mesic Herbaceous Meadow,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2215,17010,17010_68,Alaska Arctic Coastal Sedge-Dwarf-Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2216,17020,17020_68,Alaska Arctic Wet Sedge-Sphagnum Peatland,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2217,17030,17030_68,Alaska Arctic Dwarf-Shrub-Sphagnum Peatland,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2218,17040,17040_68,Alaska Arctic Permafrost Plateau Dwarf-Shrub Lichen Tundra,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2219,17050,17050_68,Alaska Arctic Sedge Freshwater Marsh,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2220,17060,17060_68,Alaska Arctic Polygonal Ground Wet Sedge Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2221,17080,17080_68,Alaska Arctic Polygonal Ground Shrub-Tussock Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2222,17110,17110_68,Alaska Arctic Tidal Marsh,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2224,17130,17130_68,Alaska Arctic Active Inland Dune,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2225,17140,17140_68,Alaska Arctic Large River Floodplain,Hardwood,NA,NA,NA,NA,NA,NA,NA,NA
+2226,17150,17150_68,Alaska Arctic Floodplain,Hardwood,NA,NA,NA,NA,NA,NA,NA,NA
+2227,16011,16011_69,Western North American Boreal Treeline White Spruce Woodland-Boreal,Conifer,150,333,NA,104,69,31,NA,IV-B
+2228,16030,16030_69,Western North American Boreal White Spruce-Hardwood Forest,Conifer-Hardwood,150,364,NA,106,71,29,NA,IV-B
+2229,16041,16041_69,Western North American Boreal Mesic Black Spruce Forest-Boreal,Conifer,112,206,NA,73,65,35,NA,III-A
+2230,16050,16050_69,Western North American Boreal Mesic Birch-Aspen Forest,Hardwood,191,503,NA,138,73,27,NA,IV-B
+2232,16070,16070_69,Western North American Boreal Subalpine Balsam Poplar-Aspen Woodland,Hardwood,NA,NA,NA,NA,NA,NA,NA,NA
+2233,16090,16090_69,Alaska Sub-boreal Mesic Subalpine Alder Shrubland,Shrubland,833,NA,NA,833,100,NA,NA,V-B
+2234,16101,16101_69,Western North American Boreal Mesic Scrub Birch-Willow Shrubland - Boreal,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2235,16110,16110_69,Western North American Sub-boreal Mesic Bluejoint Meadow,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2236,16120,16120_69,Western North American Boreal Dry Grassland,Grassland,143,201,NA,83,58,42,NA,III-A
+2237,16141,16141_69,Western North American Boreal Montane Floodplain Forest and Shrubland-Boreal,Conifer-Hardwood,5000,312,NA,294,6,94,NA,V-A
+2238,16170,16170_69,Western North American Boreal Shrub and Herbaceous Floodplain Wetland,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2239,16211,16211_69,Western North American Boreal Black Spruce Dwarf-tree Peatland-Boreal Complex,Peatland Forest,134,728,NA,113,84,16,NA,IV-B
+2240,16220,16220_69,Western North American Boreal Black Spruce Wet-Mesic Slope Woodland,Peatland Forest,NA,NA,NA,NA,NA,NA,NA,NA
+2241,16240,16240_69,Western North American Boreal Deciduous Shrub Swamp,Riparian,496,NA,NA,496,100,NA,NA,V-A
+2242,16280,16280_69,Western North American Boreal Low Shrub-Tussock Tundra,Peatland non-forest,180,9999,NA,177,98,2,NA,IV-B
+2243,16290,16290_69,Western North American Boreal Tussock Tundra,Peatland non-forest,175,NA,NA,175,100,NA,NA,IV-B
+2244,16300,16300_69,Western North American Boreal Wet Black Spruce-Tussock Woodland,Peatland Forest,152,667,NA,124,81,19,NA,IV-B
+2245,16310,16310_69,Western North American Boreal Alpine Dwarf-Shrub Summit,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2246,16330,16330_69,Western North American Boreal Alpine Mesic Herbaceous Meadow,Grassland,400,NA,NA,400,100,NA,NA,V-A
+2247,16351,16351_69,Western North American Boreal Alpine Ericaceous Dwarf-Shrubland-Complex,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2248,16371,16371_69,Western North American Boreal Alpine Floodplain - Lower Elevations,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2249,16372,16372_69,Western North American Boreal Alpine Floodplain - Higher Elevations,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2250,16380,16380_69,Alaska Arctic Mesic Alder Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2251,16390,16390_69,Alaska Arctic Mesic-Wet Willow Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2252,16822,16822_69,Alaska Arctic Scrub Birch-Ericaceous Shrubland - Frequent Fire,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2253,16830,16830_69,Alaska Arctic Mesic Sedge-Willow Tundra,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2254,16840,16840_69,Alaska Arctic Mesic Sedge-Dryas Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2255,16850,16850_69,Alaska Arctic Acidic Sparse Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2256,16860,16860_69,Alaska Arctic Non-Acidic Sparse Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2257,16870,16870_69,Alaska Arctic Lichen Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2258,16880,16880_69,Alaska Arctic Acidic Dryas Dwarf-Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2259,16890,16890_69,Alaska Arctic Non-Acidic Dryas Dwarf-Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2260,16901,16901_69,Alaska Arctic Dwarf-Shrubland-Frequent Fire,Shrubland,249,NA,NA,249,100,NA,NA,V-A
+2261,16941,16941_69,Alaska Arctic Tussock Tundra-Frequent Fire,Grassland,255,NA,NA,255,100,NA,NA,V-A
+2262,16970,16970_69,Alaska Arctic Pendantgrass Freshwater Marsh,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2263,16980,16980_69,Alaska Arctic Wet Sedge Meadow,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2264,16990,16990_69,Alaska Arctic Mesic Herbaceous Meadow,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2265,17050,17050_69,Alaska Arctic Sedge Freshwater Marsh,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2266,17060,17060_69,Alaska Arctic Polygonal Ground Wet Sedge Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2267,17080,17080_69,Alaska Arctic Polygonal Ground Shrub-Tussock Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2268,17150,17150_69,Alaska Arctic Floodplain,Hardwood,NA,NA,NA,NA,NA,NA,NA,NA
+2269,16011,16011_70,Western North American Boreal Treeline White Spruce Woodland-Boreal,Conifer,150,333,NA,104,69,31,NA,IV-B
+2270,16030,16030_70,Western North American Boreal White Spruce-Hardwood Forest,Conifer-Hardwood,150,364,NA,106,71,29,NA,IV-B
+2271,16041,16041_70,Western North American Boreal Mesic Black Spruce Forest-Boreal,Conifer,112,206,NA,73,65,35,NA,III-A
+2272,16050,16050_70,Western North American Boreal Mesic Birch-Aspen Forest,Hardwood,191,503,NA,138,73,27,NA,IV-B
+2273,16061,16061_70,Western North American Boreal Dry Aspen-Steppe Bluff-Lower Elevations,Hardwood,100,241,NA,71,71,29,NA,III-A
+2274,16062,16062_70,Western North American Boreal Dry Aspen-Steppe Bluff-Higher Elevations,Shrubland,143,207,NA,85,59,41,NA,III-A
+2275,16070,16070_70,Western North American Boreal Subalpine Balsam Poplar-Aspen Woodland,Hardwood,715,205,NA,159,22,78,NA,III-B
+2276,16080,16080_70,Alaska Sub-boreal Avalanche Slope Shrubland,Shrubland,909,5000,NA,769,85,15,NA,V-B
+2277,16090,16090_70,Alaska Sub-Boreal Mesic Subalpine Alder Shrubland,Shrubland,833,NA,NA,833,100,NA,NA,V-B
+2278,16101,16101_70,Western North American Boreal Mesic Scrub Birch-Willow Shrubland-Boreal,Shrubland,200,NA,NA,200,100,NA,NA,IV-B
+2279,16110,16110_70,Western North American Sub-boreal Mesic Bluejoint Meadow,Grassland,909,5000,NA,769,85,15,NA,V-B
+2280,16120,16120_70,Western North American Boreal Dry Grassland,Grassland,143,201,NA,83,58,42,NA,III-A
+2281,16141,16141_70,Western North American Boreal Montane Floodplain Forest and Shrubland-Boreal,Conifer-Hardwood,5000,312,NA,294,6,94,NA,V-A
+2282,16150,16150_70,Western North American Boreal Lowland Large River Floodplain Forest and Shrubland,Conifer-Hardwood,9999,303,NA,294,3,97,NA,V-A
+2283,16160,16160_70,Western North American Boreal Riparian Stringer Forest and Shrubland,Riparian,435,244,NA,156,36,64,NA,III-B
+2284,16170,16170_70,Western North American Boreal Shrub and Herbaceous Floodplain Wetland,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2285,16211,16211_70,Western North American Boreal Black Spruce Dwarf-tree Peatland-Boreal Complex,Peatland Forest,134,728,NA,113,84,16,NA,IV-B
+2286,16220,16220_70,Western North American Boreal Black Spruce Wet-Mesic Slope Woodland,Peatland Forest,164,141,NA,76,46,54,NA,III-A
+2287,16240,16240_70,Western North American Boreal Deciduous Shrub Swamp,Riparian,496,NA,NA,496,100,NA,NA,V-A
+2288,16280,16280_70,Western North American Boreal Low Shrub-Tussock Tundra,Peatland non-forest,180,9999,NA,177,98,2,NA,IV-B
+2289,16290,16290_70,Western North American Boreal Tussock Tundra,Peatland non-forest,175,NA,NA,175,100,NA,NA,IV-B
+2290,16300,16300_70,Western North American Boreal Wet Black Spruce-Tussock Woodland,Peatland Forest,152,667,NA,124,81,19,NA,IV-B
+2291,16310,16310_70,Western North American Boreal Alpine Dwarf-Shrub Summit,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2293,16330,16330_70,Western North American Boreal Alpine Mesic Herbaceous Meadow,Grassland,400,NA,NA,400,100,NA,NA,V-A
+2294,16351,16351_70,Western North American Boreal Alpine Ericaceous Dwarf-Shrubland-Complex,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2295,16372,16372_70,Western North American Boreal Alpine Floodplain-Higher Elevations,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2296,16011,16011_71,Western North American Boreal Treeline White Spruce Woodland-Boreal,Conifer,150,333,NA,104,69,31,NA,IV-B
+2297,16030,16030_71,Western North American Boreal White Spruce-Hardwood Forest,Conifer-Hardwood,150,364,NA,106,71,29,NA,IV-B
+2298,16041,16041_71,Western North American Boreal Mesic Black Spruce Forest-Boreal,Conifer,112,206,NA,73,65,35,NA,III-A
+2299,16050,16050_71,Western North American Boreal Mesic Birch-Aspen Forest,Hardwood,191,503,NA,138,73,27,NA,IV-B
+2300,16061,16061_71,Western North American Boreal Dry Aspen-Steppe Bluff-Lower Elevations,Hardwood,100,241,NA,71,71,29,NA,III-A
+2302,16080,16080_71,Alaska Sub-boreal Avalanche Slope Shrubland,Shrubland,909,5000,NA,769,85,15,NA,V-B
+2303,16090,16090_71,Alaska Sub-Boreal Mesic Subalpine Alder Shrubland,Shrubland,833,NA,NA,833,100,NA,NA,V-B
+2304,16101,16101_71,Western North American Boreal Mesic Scrub Birch-Willow Shrubland-Boreal,Shrubland,200,NA,NA,200,100,NA,NA,IV-B
+2305,16110,16110_71,Western North American Sub-boreal Mesic Bluejoint Meadow,Grassland,909,5000,NA,769,85,15,NA,V-B
+2306,16130,16130_71,Western North American Boreal Active Inland Dune,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2307,16141,16141_71,Western North American Boreal Montane Floodplain Forest and Shrubland-Boreal,Conifer-Hardwood,5000,312,NA,294,6,94,NA,V-A
+2308,16150,16150_71,Western North American Boreal Lowland Large River Floodplain Forest and Shrubland,Conifer-Hardwood,9999,303,NA,294,3,97,NA,V-A
+2309,16160,16160_71,Western North American Boreal Riparian Stringer Forest and Shrubland,Riparian,435,244,NA,156,36,64,NA,III-B
+2310,16170,16170_71,Western North American Boreal Shrub and Herbaceous Floodplain Wetland,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2311,16211,16211_71,Western North American Boreal Black Spruce Dwarf-tree Peatland-Boreal Complex,Peatland Forest,134,728,NA,113,84,16,NA,IV-B
+2312,16220,16220_71,Western North American Boreal Black Spruce Wet-Mesic Slope Woodland,Peatland Forest,164,141,NA,76,46,54,NA,III-A
+2313,16240,16240_71,Western North American Boreal Deciduous Shrub Swamp,Riparian,496,NA,NA,496,100,NA,NA,V-A
+2314,16280,16280_71,Western North American Boreal Low Shrub-Tussock Tundra,Peatland non-forest,180,9999,NA,177,98,2,NA,IV-B
+2315,16290,16290_71,Western North American Boreal Tussock Tundra,Peatland non-forest,175,NA,NA,175,100,NA,NA,IV-B
+2316,16300,16300_71,Western North American Boreal Wet Black Spruce-Tussock Woodland,Peatland Forest,152,667,NA,124,81,19,NA,IV-B
+2317,16310,16310_71,Western North American Boreal Alpine Dwarf-Shrub Summit,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2318,16330,16330_71,Western North American Boreal Alpine Mesic Herbaceous Meadow,Grassland,400,NA,NA,400,100,NA,NA,V-A
+2319,16351,16351_71,Western North American Boreal Alpine Ericaceous Dwarf-Shrubland-Complex,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2320,16371,16371_71,Western North American Boreal Alpine Floodplain-Lower Elevations,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2321,16372,16372_71,Western North American Boreal Alpine Floodplain-Higher Elevations,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2322,16011,16011_72,Western North American Boreal Treeline White Spruce Woodland-Boreal,Conifer,150,333,NA,104,69,31,NA,IV-B
+2323,16030,16030_72,Western North American Boreal White Spruce-Hardwood Forest,Conifer-Hardwood,150,364,NA,106,71,29,NA,IV-B
+2324,16041,16041_72,Western North American Boreal Mesic Black Spruce Forest-Boreal,Conifer,112,206,NA,73,65,35,NA,III-A
+2325,16050,16050_72,Western North American Boreal Mesic Birch-Aspen Forest,Hardwood,191,503,NA,138,73,27,NA,IV-B
+2326,16070,16070_72,Western North American Boreal Subalpine Balsam Poplar-Aspen Woodland,Hardwood,715,205,NA,159,22,78,NA,III-B
+2327,16080,16080_72,Alaska Sub-boreal Avalanche Slope Shrubland,Shrubland,909,5000,NA,769,85,15,NA,V-B
+2328,16090,16090_72,Alaska Sub-boreal Mesic Subalpine Alder Shrubland,Shrubland,833,NA,NA,833,100,NA,NA,V-B
+2329,16101,16101_72,Western North American Boreal Mesic Scrub Birch-Willow Shrubland-Boreal,NA,200,NA,NA,200,100,NA,NA,IV-B
+2330,16110,16110_72,Western North American Sub-boreal Mesic Bluejoint Meadow,Grassland,909,5000,NA,769,85,15,NA,V-B
+2331,16141,16141_72,Western North American Boreal Montane Floodplain Forest and Shrubland-Boreal,Conifer-Hardwood,5000,312,NA,294,6,94,NA,V-A
+2332,16150,16150_72,Western North American Boreal Lowland Large River Floodplain Forest and Shrubland,Conifer-Hardwood,9999,303,NA,294,3,97,NA,V-A
+2333,16160,16160_72,Western North American Boreal Riparian Stringer Forest and Shrubland,Riparian,435,244,NA,156,36,64,NA,III-B
+2334,16170,16170_72,Western North American Boreal Shrub and Herbaceous Floodplain Wetland,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2335,16211,16211_72,Western North American Boreal Black Spruce Dwarf-tree Peatland-Boreal Complex,Peatland Forest,134,728,NA,113,84,16,NA,IV-B
+2336,16220,16220_72,Western North American Boreal Black Spruce Wet-Mesic Slope Woodland,Peatland Forest,164,141,NA,76,46,54,NA,III-A
+2337,16240,16240_72,Western North American Boreal Deciduous Shrub Swamp,Riparian,496,NA,NA,496,100,NA,NA,V-A
+2338,16280,16280_72,Western North American Boreal Low Shrub-Tussock Tundra,Peatland non-forest,180,9999,NA,177,98,2,NA,IV-B
+2339,16290,16290_72,Western North American Boreal Tussock Tundra,Peatland non-forest,175,NA,NA,175,100,NA,NA,IV-B
+2340,16300,16300_72,Western North American Boreal Wet Black Spruce-Tussock Woodland,Peatland Forest,152,667,NA,124,81,19,NA,IV-B
+2341,16310,16310_72,Western North American Boreal Alpine Dwarf-Shrub Summit,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2342,16380,16380_72,Alaska Arctic Mesic Alder Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2343,16390,16390_72,Alaska Arctic Mesic-Wet Willow Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2344,16530,16530_77,Alaskan Pacific Maritime Mesic Herbaceous Meadow,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2345,16822,16822_72,Alaska Arctic Scrub Birch-Ericaceous Shrubland-Frequent Fire,Shrubland,252,NA,NA,252,100,NA,NA,V-A
+2346,16830,16830_72,Alaska Arctic Mesic Sedge-Willow Tundra,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2347,16850,16850_72,Alaska Arctic Acidic Sparse Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2348,16870,16870_72,Alaska Arctic Lichen Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2349,16880,16880_72,Alaska Arctic Acidic Dryas Dwarf-Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2350,16901,16901_72,Alaska Arctic Dwarf-Shrubland-Frequent Fire,Shrubland,249,NA,NA,249,100,NA,NA,V-A
+2351,16941,16941_72,Alaska Arctic Tussock Tundra-Frequent Fire,Grassland,255,NA,NA,255,100,NA,NA,V-A
+2352,16970,16970_72,Alaska Arctic Pendantgrass Freshwater Marsh,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2353,16980,16980_72,Alaska Arctic Wet Sedge Meadow,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2354,16990,16990_72,Alaska Arctic Mesic Herbaceous Meadow,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2355,17010,17010_72,Alaska Arctic Coastal Sedge-Dwarf-Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2356,17020,17020_72,Alaska Arctic Wet Sedge-Sphagnum Peatland,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2357,17030,17030_72,Alaska Arctic Dwarf-Shrub-Sphagnum Peatland,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2358,17040,17040_72,Alaska Arctic Permafrost Plateau Dwarf-Shrub Lichen Tundra,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2359,17050,17050_72,Alaska Arctic Sedge Freshwater Marsh,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2360,17060,17060_72,Alaska Arctic Polygonal Ground Wet Sedge Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2361,17080,17080_72,Alaska Arctic Polygonal Ground Shrub-Tussock Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2362,17090,17090_72,Alaska Arctic Marine Beach and Beach Meadow,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2363,17110,17110_72,Alaska Arctic Tidal Marsh,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2364,17120,17120_72,Alaska Arctic Coastal Brackish Meadow,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2365,17140,17140_72,Alaska Arctic Large River Floodplain,Hardwood,NA,NA,NA,NA,NA,NA,NA,NA
+2366,17150,17150_72,Alaska Arctic Floodplain,Hardwood,NA,NA,NA,NA,NA,NA,NA,NA
+2367,17170,17170_72,Alaska Arctic Bedrock and Talus,Sparse,NA,NA,NA,NA,NA,NA,NA,NA
+2369,16011,16011_73,Western North American Boreal Treeline White Spruce Woodland-Boreal,Conifer,150,333,NA,104,69,31,NA,IV-B
+2370,16012,16012_73,Western North American Boreal Treeline White Spruce Woodland-Alaska Sub-boreal,Conifer,398,1036,NA,287,72,28,NA,V-A
+2371,16030,16030_73,Western North American Boreal White Spruce-Hardwood Forest,Conifer-Hardwood,150,364,NA,106,71,29,NA,IV-B
+2372,16041,16041_73,Western North American Boreal Mesic Black Spruce Forest-Boreal,Conifer,112,206,NA,73,65,35,NA,III-A
+2373,16042,16042_73,Western North American Boreal Mesic Black Spruce Forest-Alaska Sub-boreal,Conifer,217,1430,NA,188,87,13,NA,IV-B
+2374,16050,16050_73,Western North American Boreal Mesic Birch-Aspen Forest,Hardwood,191,503,NA,138,73,27,NA,IV-B
+2375,16061,16061_73,Western North American Boreal Dry Aspen-Steppe Bluff-Lower Elevations,Hardwood,100,241,NA,71,71,29,NA,III-A
+2376,16062,16062_73,Western North American Boreal Dry Aspen-Steppe Bluff-Higher Elevations,Shrubland,143,207,NA,85,59,41,NA,III-A
+2377,16070,16070_73,Western North American Boreal Subalpine Balsam Poplar-Aspen Woodland,Hardwood,715,205,NA,159,22,78,NA,III-B
+2378,16080,16080_73,Alaska Sub-boreal Avalanche Slope Shrubland,Shrubland,909,5000,NA,769,85,15,NA,V-B
+2379,16090,16090_73,Alaska Sub-Boreal Mesic Subalpine Alder Shrubland,Shrubland,833,NA,NA,833,100,NA,NA,V-B
+2380,16101,16101_73,Western North American Boreal Mesic Scrub Birch-Willow Shrubland-Boreal,Shrubland,200,NA,NA,200,100,NA,NA,IV-B
+2381,16102,16102_73,Western North American Boreal Mesic Scrub Birch-Willow Shrubland-Alaska Sub-boreal,Shrubland,300,NA,NA,300,100,NA,NA,V-A
+2382,16110,16110_73,Western North American Sub-boreal Mesic Bluejoint Meadow,Grassland,909,5000,NA,769,85,15,NA,V-B
+2383,16120,16120_73,Western North American Boreal Dry Grassland,Grassland,143,201,NA,83,58,42,NA,III-A
+2384,16141,16141_73,Western North American Boreal Montane Floodplain Forest and Shrubland-Boreal,Conifer-Hardwood,5000,312,NA,294,6,94,NA,V-A
+2385,16142,16142_73,Western North American Boreal Montane Floodplain Forest and Shrubland-Alaska Sub-boreal,Conifer-Hardwood,5000,769,NA,666,13,87,NA,V-B
+2386,16150,16150_73,Western North American Boreal Lowland Large River Floodplain Forest and Shrubland,Conifer-Hardwood,9999,303,NA,294,3,97,NA,V-A
+2387,16160,16160_73,Western North American Boreal Riparian Stringer Forest and Shrubland,Riparian,435,244,NA,156,36,64,NA,III-B
+2388,16170,16170_73,Western North American Boreal Shrub and Herbaceous Floodplain Wetland,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2389,16181,16181_73,Western North American Boreal Herbaceous Fen-Alaska Sub-Boreal Complex,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2390,16211,16211_73,Western North American Boreal Black Spruce Dwarf-tree Peatland-Boreal Complex,Peatland Forest,134,728,NA,113,84,16,NA,IV-B
+2391,16212,16212_73,Western North American Boreal Black Spruce Dwarf-tree Peatland-Alaska Sub-boreal Complex,Peatland Forest,NA,NA,NA,NA,NA,NA,NA,NA
+2392,16220,16220_73,Western North American Boreal Black Spruce Wet-Mesic Slope Woodland,Peatland Forest,164,141,NA,76,46,54,NA,III-A
+2393,16240,16240_73,Western North American Boreal Deciduous Shrub Swamp,Riparian,496,NA,NA,496,100,NA,NA,V-A
+2394,16280,16280_73,Western North American Boreal Low Shrub-Tussock Tundra,Peatland non-forest,180,9999,NA,177,98,2,NA,IV-B
+2395,16290,16290_73,Western North American Boreal Tussock Tundra,Peatland non-forest,175,NA,NA,175,100,NA,NA,IV-B
+2396,16300,16300_73,Western North American Boreal Wet Black Spruce-Tussock Woodland,Peatland Forest,152,667,NA,124,81,19,NA,IV-B
+2397,16310,16310_73,Western North American Boreal Alpine Dwarf-Shrub Summit,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2399,16330,16330_73,Western North American Boreal Alpine Mesic Herbaceous Meadow,Grassland,400,NA,NA,400,100,NA,NA,V-A
+2400,16351,16351_73,Western North American Boreal Alpine Ericaceous Dwarf-Shrubland-Complex,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2401,16371,16371_73,Western North American Boreal Alpine Floodplain-Lower Elevations,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2402,16372,16372_73,Western North American Boreal Alpine Floodplain-Higher Elevations,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2403,16420,16420_73,Aleutian Kenai Birch-Cottonwood-Poplar Forest,Hardwood,NA,NA,NA,NA,NA,NA,NA,NA
+2404,16430,16430_73,Alaskan Pacific Maritime Alpine Dwarf-Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2405,16450,16450_73,Alaska Sub-boreal and Maritime Alpine Mesic Herbaceous Meadow,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2406,16440,16440_73,Alaskan Pacific Maritime Sitka Spruce Forest,Conifer,NA,NA,NA,NA,NA,NA,NA,NA
+2407,16460,16460_77,Alaskan Pacific Maritime Western Hemlock Forest,Conifer,NA,NA,NA,NA,NA,NA,NA,NA
+2408,16482,16482_78,Alaskan Pacific Maritime Mountain Hemlock Forest-Southeast,Conifer,NA,NA,NA,NA,NA,NA,NA,NA
+2409,16790,16790_73,Alaska Sub-boreal White Spruce-Hardwood Forest,Conifer-Hardwood,715,5000,NA,626,87,13,NA,V-B
+2410,16011,16011_74,Western North American Boreal Treeline White Spruce Woodland-Boreal,Conifer,150,333,NA,104,69,31,NA,IV-B
+2411,16012,16012_74,Western North American Boreal Treeline White Spruce Woodland-Alaska Sub-boreal,Conifer,398,1036,NA,287,72,28,NA,V-A
+2412,16030,16030_74,Western North American Boreal White Spruce-Hardwood Forest,Conifer-Hardwood,150,364,NA,106,71,29,NA,IV-B
+2413,16041,16041_74,Western North American Boreal Mesic Black Spruce Forest-Boreal,Conifer,112,206,NA,73,65,35,NA,III-A
+2414,16042,16042_74,Western North American Boreal Mesic Black Spruce Forest-Alaska Sub-boreal,Conifer,217,1430,NA,188,87,13,NA,IV-B
+2415,16050,16050_74,Western North American Boreal Mesic Birch-Aspen Forest,Hardwood,191,503,NA,138,73,27,NA,IV-B
+2416,16061,16061_74,Western North American Boreal Dry Aspen-Steppe Bluff-Lower Elevations,Hardwood,100,241,NA,71,71,29,NA,III-A
+2417,16062,16062_74,Western North American Boreal Dry Aspen-Steppe Bluff-Higher Elevations,Shrubland,143,207,NA,85,59,41,NA,III-A
+2418,16070,16070_74,Western North American Boreal Subalpine Balsam Poplar-Aspen Woodland,Hardwood,715,205,NA,159,22,78,NA,III-B
+2419,16080,16080_74,Alaska Sub-boreal Avalanche Slope Shrubland,Shrubland,909,5000,NA,769,85,15,NA,V-B
+2420,16090,16090_74,Alaska Sub-Boreal Mesic Subalpine Alder Shrubland,Shrubland,833,NA,NA,833,100,NA,NA,V-B
+2421,16101,16101_74,Western North American Boreal Mesic Scrub Birch-Willow Shrubland-Boreal,Shrubland,200,NA,NA,200,100,NA,NA,IV-B
+2422,16102,16102_74,Western North American Boreal Mesic Scrub Birch-Willow Shrubland-Alaska Sub-boreal,Shrubland,300,NA,NA,300,100,NA,NA,V-A
+2423,16110,16110_74,Western North American Sub-boreal Mesic Bluejoint Meadow,Grassland,909,5000,NA,769,85,15,NA,V-B
+2424,16120,16120_74,Western North American Boreal Dry Grassland,Grassland,143,201,NA,83,58,42,NA,III-A
+2425,16130,16130_74,Western North American Boreal Active Inland Dune,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2426,16141,16141_74,Western North American Boreal Montane Floodplain Forest and Shrubland-Boreal,Conifer-Hardwood,5000,312,NA,294,6,94,NA,V-A
+2427,16142,16142_74,Western North American Boreal Montane Floodplain Forest and Shrubland-Alaska Sub-boreal,Conifer-Hardwood,5000,769,NA,666,13,87,NA,V-B
+2428,16150,16150_74,Western North American Boreal Lowland Large River Floodplain Forest and Shrubland,Conifer-Hardwood,9999,303,NA,294,3,97,NA,V-A
+2429,16160,16160_74,Western North American Boreal Riparian Stringer Forest and Shrubland,Riparian,435,244,NA,156,36,64,NA,III-B
+2430,16170,16170_74,Western North American Boreal Shrub and Herbaceous Floodplain Wetland,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2431,16181,16181_74,Western North American Boreal Herbaceous Fen-Alaska Sub-Boreal Complex,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2432,16211,16211_74,Western North American Boreal Black Spruce Dwarf-tree Peatland-Boreal Complex,Peatland Forest,134,728,NA,113,84,16,NA,IV-B
+2433,16212,16212_74,Western North American Boreal Black Spruce Dwarf-tree Peatland-Alaska Sub-boreal Complex,Peatland Forest,NA,NA,NA,NA,NA,NA,NA,NA
+2434,16220,16220_74,Western North American Boreal Black Spruce Wet-Mesic Slope Woodland,Peatland Forest,164,141,NA,76,46,54,NA,III-A
+2435,16240,16240_74,Western North American Boreal Deciduous Shrub Swamp,Riparian,496,NA,NA,496,100,NA,NA,V-A
+2436,16280,16280_74,Western North American Boreal Low Shrub-Tussock Tundra,Peatland non-forest,180,9999,NA,177,98,2,NA,IV-B
+2437,16290,16290_74,Western North American Boreal Tussock Tundra,Peatland non-forest,175,NA,NA,175,100,NA,NA,IV-B
+2438,16300,16300_74,Western North American Boreal Wet Black Spruce-Tussock Woodland,Peatland Forest,152,667,NA,124,81,19,NA,IV-B
+2439,16310,16310_74,Western North American Boreal Alpine Dwarf-Shrub Summit,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2441,16330,16330_74,Western North American Boreal Alpine Mesic Herbaceous Meadow,Grassland,400,NA,NA,400,100,NA,NA,V-A
+2442,16351,16351_74,Western North American Boreal Alpine Ericaceous Dwarf-Shrubland-Complex,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2443,16371,16371_74,Western North American Boreal Alpine Floodplain-Lower Elevations,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2444,16372,16372_74,Western North American Boreal Alpine Floodplain-Higher Elevations,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2445,16460,16460_78,Alaskan Pacific Maritime Western Hemlock Forest,Conifer,NA,NA,NA,NA,NA,NA,NA,NA
+2446,16790,16790_74,Alaska Sub-boreal White Spruce-Hardwood Forest,Conifer-Hardwood,715,5000,NA,626,87,13,NA,V-B
+2447,16011,16011_75,Western North American Boreal Treeline White Spruce Woodland-Boreal,Conifer,150,333,NA,104,69,31,NA,IV-B
+2448,16030,16030_75,Western North American Boreal White Spruce-Hardwood Forest,Conifer-Hardwood,150,364,NA,106,71,29,NA,IV-B
+2449,16042,16042_75,Western North American Boreal Mesic Black Spruce Forest-Alaska Sub-boreal,Conifer,217,1430,NA,188,87,13,NA,IV-B
+2450,16070,16070_75,Western North American Boreal Subalpine Balsam Poplar-Aspen Woodland,Hardwood,NA,NA,NA,NA,NA,NA,NA,NA
+2451,16080,16080_75,Alaska Sub-boreal Avalanche Slope Shrubland,Shrubland,909,5000,NA,769,85,15,NA,V-B
+2452,16090,16090_75,Alaska Sub-Boreal Mesic Subalpine Alder Shrubland,Shrubland,833,NA,NA,833,100,NA,NA,V-B
+2453,16102,16102_75,Western North American Boreal Mesic Scrub Birch-Willow Shrubland-Alaska Sub-boreal,Shrubland,300,NA,NA,300,100,NA,NA,V-A
+2454,16110,16110_75,Western North American Sub-boreal Mesic Bluejoint Meadow,Grassland,909,5000,NA,769,85,15,NA,V-B
+2455,16120,16120_75,Western North American Boreal Dry Grassland,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2456,16142,16142_75,Western North American Boreal Montane Floodplain Forest and Shrubland-Alaska Sub-boreal,Conifer-Hardwood,5000,769,NA,666,13,87,NA,V-B
+2457,16160,16160_75,Western North American Boreal Riparian Stringer Forest and Shrubland,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2458,16170,16170_75,Western North American Boreal Shrub and Herbaceous Floodplain Wetland,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2459,16181,16181_75,Western North American Boreal Herbaceous Fen-Alaska Sub-Boreal Complex,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2460,16212,16212_75,Western North American Boreal Black Spruce Dwarf-tree Peatland-Alaska Sub-boreal Complex,Peatland Forest,NA,NA,NA,NA,NA,NA,NA,NA
+2461,16220,16220_75,Western North American Boreal Black Spruce Wet-Mesic Slope Woodland,Peatland Forest,NA,NA,NA,NA,NA,NA,NA,NA
+2462,16240,16240_75,Western North American Boreal Deciduous Shrub Swamp,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2463,16280,16280_75,Western North American Boreal Low Shrub-Tussock Tundra,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2464,16290,16290_75,Western North American Boreal Tussock Tundra,Peatland non-forest,175,NA,NA,175,100,NA,NA,IV-B
+2465,16310,16310_75,Western North American Boreal Alpine Dwarf-Shrub Summit,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2467,16351,16351_75,Western North American Boreal Alpine Ericaceous Dwarf-Shrubland-Complex,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2468,16371,16371_75,Western North American Boreal Alpine Floodplain-Lower Elevations,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2469,16372,16372_75,Western North American Boreal Alpine Floodplain-Higher Elevations,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2470,16430,16430_75,Alaskan Pacific Maritime Alpine Dwarf-Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2471,16481,16481_73,Alaska Sub-boreal Mountain Hemlock Forest-Northern,Conifer,1430,5000,NA,1112,78,22,NA,V-B
+2472,16481,16481_75,Alaskan Pacific Maritime Mountain Hemlock Forest-Northern,Conifer,1430,5000,NA,1112,78,22,NA,V-B
+2473,16500,16500_77,Alaskan Pacific Maritime Periglacial Woodland and Shrubland,Conifer,NA,NA,NA,NA,NA,NA,NA,NA
+2474,16600,16600_76,Alaskan Pacific Maritime Wet Low Shrubland,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2476,16680,16680_75,Temperate Pacific Tidal Salt and Brackish Marsh,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2477,16730,16730_75,Alaskan Pacific Maritime Alpine Wet Meadow,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2478,16760,16760_75,Alaskan Pacific Maritime Alpine Floodplain,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2479,16780,16780_75,Alaska Sub-boreal Mountain Hemlock-White Spruce Forest,Conifer,1000,5000,NA,833,83,17,NA,V-B
+2480,16790,16790_75,Alaska Sub-boreal White Spruce-Hardwood Forest,Conifer-Hardwood,715,5000,NA,626,87,13,NA,V-B
+2481,17340,17340_75,North Pacific Alpine and Subalpine Bedrock and Scree,Sparse,NA,NA,NA,NA,NA,NA,NA,NA
+2482,16011,16011_76,Western North American Boreal Treeline White Spruce Woodland-Boreal,Conifer,150,333,NA,104,69,31,NA,IV-B
+2483,16012,16012_76,Western North American Boreal Treeline White Spruce Woodland-Alaska Sub-boreal,Conifer,398,1036,NA,287,72,28,NA,V-A
+2484,16030,16030_76,Western North American Boreal White Spruce-Hardwood Forest,Conifer-Hardwood,150,364,NA,106,71,29,NA,IV-B
+2485,16041,16041_76,Western North American Boreal Mesic Black Spruce Forest-Boreal,Conifer,112,206,NA,73,65,35,NA,III-A
+2486,16042,16042_76,Western North American Boreal Mesic Black Spruce Forest-Alaska Sub-boreal,Conifer,217,1430,NA,188,87,13,NA,IV-B
+2487,16050,16050_76,Western North American Boreal Mesic Birch-Aspen Forest,Hardwood,191,503,NA,138,73,27,NA,IV-B
+2488,16070,16070_76,Western North American Boreal Subalpine Balsam Poplar-Aspen Woodland,Hardwood,715,205,NA,159,22,78,NA,III-B
+2489,16080,16080_76,Alaska Sub-boreal Avalanche Slope Shrubland,Shrubland,909,5000,NA,769,85,15,NA,V-B
+2491,16150,16150_76,Western North American Boreal Lowland Large River Floodplain Forest and Shrubland,Conifer-Hardwood,9999,303,NA,294,3,97,NA,V-A
+2492,16170,16170_76,Western North American Boreal Shrub and Herbaceous Floodplain Wetland,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2493,16181,16181_76,Western North American Boreal Herbaceous Fen-Alaska Sub-Boreal Complex,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2494,16211,16211_76,Western North American Boreal Black Spruce Dwarf-Tree Peatland-Boreal Complex,Peatland Forest,134,728,NA,113,84,16,NA,IV-B
+2495,16212,16212_76,Western North American Boreal Black Spruce Dwarf-Tree Peatland-Alaska Sub-boreal Complex,Peatland Forest,NA,NA,NA,NA,NA,NA,NA,NA
+2496,16220,16220_76,Western North American Boreal Black Spruce Wet-Mesic Slope Woodland,Peatland Forest,164,141,NA,76,46,54,NA,III-A
+2497,16290,16290_76,Western North American Boreal Tussock Tundra,Peatland non-forest,175,NA,NA,175,100,NA,NA,IV-B
+2498,16371,16371_76,Western North American Boreal Alpine Floodplain-Lower Elevations,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2499,16380,16380_76,Alaska Arctic Mesic Alder Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2500,16390,16390_76,Alaska Arctic Mesic-Wet Willow Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2501,16400,16400_76,Aleutian Mesic-Wet Willow Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2502,16420,16420_76,Aleutian Kenai Birch-Cottonwood-Poplar Forest,Hardwood,NA,NA,NA,NA,NA,NA,NA,NA
+2503,16450,16450_74,Alaska Sub-boreal and Maritime Alpine Mesic Herbaceous Meadow,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2504,16440,16440_76,Alaskan Pacific Maritime Sitka Spruce Forest,Conifer,NA,NA,NA,NA,NA,NA,NA,NA
+2505,16530,16530_78,Alaskan Pacific Maritime Mesic Herbaceous Meadow,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2506,16550,16550_78,Alaskan Pacific Maritime Floodplain Forest and Shrubland,Conifer,NA,NA,NA,NA,NA,NA,NA,NA
+2508,16630,16630_76,North Pacific Shrub Swamp,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2509,16680,16680_76,Temperate Pacific Tidal Salt and Brackish Marsh,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2511,16710,16710_76,Aleutian American Dunegrass Grassland,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2512,16790,16790_76,Alaska Sub-boreal White Spruce-Hardwood Forest,Conifer-Hardwood,715,5000,NA,626,87,13,NA,V-B
+2513,16821,16821_76,Alaska Arctic Scrub Birch-Ericaceous Shrubland-Infrequent Fire,Shrubland,905,NA,NA,905,100,NA,NA,V-B
+2514,16830,16830_76,Alaska Arctic Mesic Sedge-Willow Tundra,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2515,16850,16850_76,Alaska Arctic Acidic Sparse Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2516,16870,16870_76,Alaska Arctic Lichen Tundra,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2517,16901,16901_76,Alaska Arctic Dwarf-Shrubland-Frequent Fire,Shrubland,249,NA,NA,249,100,NA,NA,V-A
+2518,16942,16942_76,Alaska Arctic Tussock Tundra-Infrequent Fire,Grassland,1023,NA,NA,1023,100,NA,NA,V-B
+2519,16980,16980_76,Alaska Arctic Wet Sedge Meadow,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2520,16990,16990_76,Alaska Arctic Mesic Herbaceous Meadow,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2521,17010,17010_76,Alaska Arctic Coastal Sedge-Dwarf-Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2522,17020,17020_76,Alaska Arctic Wet Sedge-Sphagnum Peatland,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2523,17050,17050_76,Alaska Arctic Sedge Freshwater Marsh,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2524,17090,17090_76,Alaska Arctic Marine Beach and Beach Meadow,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2525,17110,17110_76,Alaska Arctic Tidal Marsh,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2527,17150,17150_76,Alaska Arctic Floodplain,Hardwood,NA,NA,NA,NA,NA,NA,NA,NA
+2528,17160,17160_76,Aleutian Rocky Headland and Sea Cliff,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2529,17180,17180_76,Aleutian Mesic Alder-Salmonberry Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2530,17190,17190_76,Aleutian Crowberry-Herbaceous Heath,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2531,17200,17200_76,Aleutian Mixed Dwarf-Shrub-Herbaceous Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2532,17220,17220_76,Aleutian Freshwater Marsh,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2533,17230,17230_76,Aleutian Wet Meadow and Herbaceous Peatland-Complex,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2534,17250,17250_76,Aleutian Marine Beach and Beach Meadow,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2535,17260,17260_76,Aleutian Tidal Marsh,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2536,17270,17270_76,Aleutian Shrub and Herbaceous Meadow Floodplain,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2537,17280,17280_76,Aleutian Floodplain Forest and Shrubland,Hardwood,NA,NA,NA,NA,NA,NA,NA,NA
+2538,17290,17290_76,Aleutian Floodplain Wetland,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2539,17300,17300_76,Aleutian Sparse Heath and Fell-Field,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2540,17310,17310_76,Aleutian Oval-leaf Blueberry Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2541,17320,17320_76,Aleutian Volcanic Rock and Talus,Sparse,NA,NA,NA,NA,NA,NA,NA,NA
+2542,16012,16012_77,Western North American Boreal Treeline White Spruce Woodland-Alaska Sub-boreal,Conifer,398,1036,NA,287,72,28,NA,V-A
+2543,16030,16030_77,Western North American Boreal White Spruce-Hardwood Forest,Conifer-Hardwood,NA,NA,NA,NA,NA,NA,NA,NA
+2544,16042,16042_77,Western North American Boreal Mesic Black Spruce Forest-Alaska Sub-boreal,Conifer,217,1430,NA,188,87,13,NA,IV-B
+2545,16070,16070_77,Western North American Boreal Subalpine Balsam Poplar-Aspen Woodland,Hardwood,NA,NA,NA,NA,NA,NA,NA,NA
+2546,16102,16102_77,Western North American Boreal Mesic Scrub Birch-Willow Shrubland-Alaska Sub-boreal,Shrubland,300,NA,NA,300,100,NA,NA,V-A
+2547,16430,16430_77,Alaskan Pacific Maritime Alpine Dwarf-Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2548,16440,16440_77,Alaskan Pacific Maritime Sitka Spruce Forest,Conifer,NA,NA,NA,NA,NA,NA,NA,NA
+2549,16450,16450_75,Alaska Sub-boreal and Maritime Alpine Mesic Herbaceous Meadow,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2550,16481,16481_77,Alaskan Pacific Maritime Mountain Hemlock Forest-Northern,Conifer,1430,5000,NA,1112,78,22,NA,V-B
+2551,16500,16500_78,Alaskan Pacific Maritime Periglacial Woodland and Shrubland,Conifer,NA,NA,NA,NA,NA,NA,NA,NA
+2552,16520,16520_77,Alaskan Pacific Maritime Subalpine Alder-Salmonberry Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2553,16540,16540_76,Alaskan Pacific Maritime Sitka Spruce Beach Ridge,Conifer,NA,NA,NA,NA,NA,NA,NA,NA
+2554,16540,16540_78,Alaskan Pacific Maritime Sitka Spruce Beach Ridge,Conifer,NA,NA,NA,NA,NA,NA,NA,NA
+2555,16560,16560_77,Alaskan Pacific Maritime Shrub and Herbaceous Floodplain Wetland,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2556,16590,16590_75,Alaskan Pacific Maritime Mountain Hemlock Peatland,Peatland Forest,NA,NA,NA,NA,NA,NA,NA,NA
+2557,16590,16590_78,Alaskan Pacific Maritime Mountain Hemlock Peatland,Peatland Forest,NA,NA,NA,NA,NA,NA,NA,NA
+2558,16600,16600_77,Alaskan Pacific Maritime Wet Low Shrubland,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2560,16610,16610_77,Alaskan Pacific Maritime Fen and Wet Meadow,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2561,16620,16620_77,Temperate Pacific Freshwater Emergent Marsh,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2562,16630,16630_77,North Pacific Shrub Swamp,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2563,16650,16650_77,Alaskan Pacific Maritime Coastal Meadow and Slough-Levee,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2564,16680,16680_77,Temperate Pacific Tidal Salt and Brackish Marsh,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2566,16760,16760_77,Alaskan Pacific Maritime Alpine Floodplain,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2567,16790,16790_77,Alaska Sub-boreal White Spruce-Hardwood Forest,Conifer-Hardwood,715,5000,NA,626,87,13,NA,V-B
+2568,16800,16800_77,Alaskan Pacific Maritime Avalanche Slope Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2569,16810,16810_77,Alaskan Pacific Maritime Poorly Drained Conifer Woodland,Peatland Forest,NA,NA,NA,NA,NA,NA,NA,NA
+2570,16430,16430_78,Alaskan Pacific Maritime Alpine Dwarf-Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2571,16440,16440_78,Alaskan Pacific Maritime Sitka Spruce Forest,Conifer,NA,NA,NA,NA,NA,NA,NA,NA
+2572,16460,16460_75,Alaskan Pacific Maritime Western Hemlock Forest,Conifer,NA,NA,NA,NA,NA,NA,NA,NA
+2573,16481,16481_78,Alaskan Pacific Maritime Mountain Hemlock Forest-Northern,Conifer,NA,NA,NA,NA,NA,NA,NA,NA
+2574,16510,16510_72,Aleutian Mesic Herbaceous Meadow,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2575,16510,16510_76,Aleutian Mesic Herbaceous Meadow,Grassland,NA,NA,NA,NA,NA,NA,NA,NA
+2576,16520,16520_78,Alaskan Pacific Maritime Subalpine Alder-Salmonberry Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2577,16540,16540_77,Alaskan Pacific Maritime Sitka Spruce Beach Ridge,Conifer,NA,NA,NA,NA,NA,NA,NA,NA
+2578,16550,16550_77,Alaskan Pacific Maritime Floodplain Forest and Shrubland,Conifer,NA,NA,NA,NA,NA,NA,NA,NA
+2579,16570,16570_78,Alaskan Pacific Maritime Shore Pine Peatland,Peatland Forest,NA,NA,NA,NA,NA,NA,NA,NA
+2580,16590,16590_77,Alaskan Pacific Maritime Mountain Hemlock Peatland,Peatland Forest,NA,NA,NA,NA,NA,NA,NA,NA
+2581,16600,16600_75,Alaskan Pacific Maritime Wet Low Shrub,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2582,16600,16600_78,Alaskan Pacific Maritime Wet Low Shrubland,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2584,16610,16610_78,Alaskan Pacific Maritime Fen and Wet Meadow,Peatland non-forest,NA,NA,NA,NA,NA,NA,NA,NA
+2585,16620,16620_78,Temperate Pacific Freshwater Emergent Marsh,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2586,16630,16630_78,North Pacific Shrub Swamp,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2587,16650,16650_78,Alaskan Pacific Maritime Coastal Meadow and Slough-Levee,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2588,16680,16680_78,Temperate Pacific Tidal Salt and Brackish Marsh,Riparian,NA,NA,NA,NA,NA,NA,NA,NA
+2590,16800,16800_78,Alaskan Pacific Maritime Avalanche Slope Shrubland,Shrubland,NA,NA,NA,NA,NA,NA,NA,NA
+2591,16810,16810_78,Alaskan Pacific Maritime Poorly Drained Conifer Woodland,Peatland Forest,NA,NA,NA,NA,NA,NA,NA,NA
+2592,16320,16320_73,Western North American Boreal Alpine Talus and Bedrock,Sparse,NA,NA,NA,NA,NA,NA,NA,NA
+2593,16320,16320_74,Western North American Boreal Alpine Talus and Bedrock,Sparse,NA,NA,NA,NA,NA,NA,NA,NA
+2594,16320,16320_76,Western North American Boreal Alpine Talus and Bedrock,Sparse,NA,NA,NA,NA,NA,NA,NA,NA
+2595,16320,16320_70,Western North American Boreal Alpine Talus and Bedrock,Sparse,NA,NA,NA,NA,NA,NA,NA,NA
+2596,18040,18040_79,Hawaii Freshwater Marsh,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2597,18060,18060_79,Hawaii Bog,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2598,18080,18080_79,Hawaii Lowland Rainforest,NA,NA,1105,NA,1105,NA,100,NA,V-B
+2599,18090,18090_79,Hawaii Montane Cloud Forest,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2600,18100,18100_79,Hawaii Montane Rainforest,NA,18645,16984,NA,8813,48,52,NA,V-B
+2601,18110,18110_79,Hawaii Wet Cliff and Ridge Crest Shrubland,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2602,18130,18130_79,Hawaii Lowland Dry Forest,NA,81,28,NA,21,26,74,NA,I-C
+2603,18140,18140_79,Hawaii Lowland Mesic Forest,NA,NA,507,NA,507,NA,100,NA,V-B
+2604,18151,18151_79,Hawaii Montane-Subalpine Dry Forest and Woodland-Lava,NA,3295,471,NA,412,13,87,NA,V-A
+2605,18160,18160_79,Hawaii Montane-Subalpine Mesic Forest,NA,NA,508,NA,508,NA,100,NA,V-B
+2606,18170,18170_79,Hawaii Lowland Dry Shrubland,NA,81,NA,15,12,15,NA,85,I-B
+2607,18180,18180_79,Hawaii Lowland Mesic Shrubland,NA,NA,51,NA,51,NA,100,NA,III-A
+2608,18190,18190_79,Hawaii Lowland Dry Grassland,NA,NA,NA,21,21,NA,NA,100,I-C
+2609,18200,18200_79,Hawaii Lowland Mesic Grassland,NA,NA,NA,60,60,NA,NA,100,III-A
+2610,18210,18210_79,Hawaii Montane-Subalpine Dry Shrubland,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2611,18220,18220_79,Hawaii Montane-Subalpine Dry Grassland,NA,NA,NA,104,104,NA,NA,100,III-B
+2612,18230,18230_79,Hawaii Montane-Subalpine Mesic Grassland,NA,NA,NA,505,505,NA,NA,100,V-B
+2613,18240,18240_79,Hawaii Alpine Dwarf-Shrubland,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2614,18250,18250_79,Hawaii Dry Cliff,NA,NA,529,NA,529,NA,100,NA,V-B
+2615,18260,18260_79,Hawaii Dry Coastal Strand,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2616,18270,18270_79,Hawaii Wet-Mesic Coastal Strand,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2617,18280,18280_79,Hawaii Subalpine Mesic Shrubland,NA,NA,51,NA,51,NA,100,NA,III-A
+2700,10803,10803_6_12_15_16_17_18_23_24_25,Inter-Mountain Basins Big Sagebrush Shrubland-Semi-Desert,Shrubland,151,NA,NA,151,100,NA,NA,IV-B
+2701,10804,10804_6_12_15_16_17_18_23_24_25,Inter-Mountain Basins Big Sagebrush Shrubland-Upland,Shrubland,120,NA,NA,120,100,NA,NA,IV-B
+2719,10432,10432_2_3,Mediterranean California Mixed Evergreen Forest-Coastal,Conifer,221,60,252,40,18,66,16,III-A
+2723,13620,13620_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,355,680,12,11,3,2,95,I-B
+2724,13622,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Hardwood-Conifer,230,NA,40,34,15,NA,85,I-C
