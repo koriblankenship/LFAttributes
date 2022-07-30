@@ -1,7 +1,6 @@
 ##This code takes the bps csv and filters for 1) unique bps (by bps code) & 2) unique bps models (by bps_model)
 
 library("tidyverse")
-library("readr")
 
 #bring in the bps csv
 bps_all <- read_csv("Input/LF16_BPS_200.csv")
