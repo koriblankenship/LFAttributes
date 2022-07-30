@@ -4,17 +4,16 @@ library("tidyverse")
 library("readr")
 
 #bring in the bps csv
-bps_all1 <- read_csv("Input/LF16_BPS_200.csv")
-bps_all2 <- bps_all1 #duplicate the bps csv for the 2nd subset of data
+bps_all <- read_csv("Input/LF16_BPS_200.csv")
 
 #filter for unique BpS (by bps_code) and keep desired columns
-bps_all1 <- bps_all1 %>%
+uniquebpscode <- bps_all %>%
   distinct(BPS_CODE, .keep_all = TRUE) %>%
-  select(VALUE, BPS_CODE, BPS_NAME, GROUPVEG)
-write_csv(bps_all1, "Output/uniquebpscode.csv") #write the output
+  select(VALUE, BPS_CODE, BPS_NAME, GROUPVEG) 
+write_csv(uniquebpscode, "Output/uniquebpscode.csv")  #write2csv
 
 #filter for unique BpS Model (by model_code) and remove unwanted rows
-bps_all2 <- bps_all2 %>%
+uniquebpsmodel <- bps_all %>%
   distinct(BPS_MODEL, .keep_all = TRUE) %>%
   select(-c(ZONE, R, G, B, RED, GREEN, BLUE))
-write_csv(bps_all2, "Output/uniquebpsmodel.csv") #write the output
+write_csv(uniquebpsmodel, "Output/uniquebpsmodel.csv") #write2csv
